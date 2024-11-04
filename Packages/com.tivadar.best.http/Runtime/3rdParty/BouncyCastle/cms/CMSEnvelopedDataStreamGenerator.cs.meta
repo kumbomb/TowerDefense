@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a6f248b0ebc050428a4172e4f7a95b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/cms/CMSEnvelopedDataStreamGenerator.cs
+  uploadId: 672585

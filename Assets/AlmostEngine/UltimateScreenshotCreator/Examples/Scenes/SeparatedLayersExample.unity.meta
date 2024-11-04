@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e37624e3c5c9134eb53832f161e3dde
+timeCreated: 1533907310
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Examples/Scenes/SeparatedLayersExample.unity
+  uploadId: 649729

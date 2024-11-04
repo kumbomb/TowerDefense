@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7720cbeff4f2d6945af23e6cefa00c31
+timeCreated: 1568634250
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Huawei
+    P30 Pro.prefab
+  uploadId: 649729

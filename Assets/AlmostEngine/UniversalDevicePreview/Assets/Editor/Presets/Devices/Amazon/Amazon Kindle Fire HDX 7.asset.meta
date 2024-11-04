@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd705e4bda57a0543b15816edf2aab2f
+timeCreated: 1545143557
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Amazon/Amazon
+    Kindle Fire HDX 7.asset
+  uploadId: 649729

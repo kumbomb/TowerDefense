@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 706003b77f4a59848a410906ddf3ea98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/util/encoders/Translator.cs
+  uploadId: 672585

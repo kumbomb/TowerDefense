@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3937188a0133a02428b04f13e43fba00
+timeCreated: 1546610930
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Scripts/PopularityPresetAssetInspector.cs
+  uploadId: 649729

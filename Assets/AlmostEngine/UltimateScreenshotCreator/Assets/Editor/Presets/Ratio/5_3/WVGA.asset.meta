@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d04fd1c27ff3a814ea992486b224243a
+timeCreated: 1545143572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/5_3/WVGA.asset
+  uploadId: 649729

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b14843617300c874b8e1ab4de5938bdf
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Samples~/With UI/csc.rsp
+  uploadId: 672586

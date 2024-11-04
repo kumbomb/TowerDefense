@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c17f0cfcb1f787f40acdde756ce52cb6
+timeCreated: 1545143573
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/16_10/WXGA+.asset
+  uploadId: 649729

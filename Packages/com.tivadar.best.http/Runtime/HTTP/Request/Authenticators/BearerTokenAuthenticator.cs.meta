@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6d868e2c2c58ac641a6eb45359eee94b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/HTTP/Request/Authenticators/BearerTokenAuthenticator.cs
+  uploadId: 672585

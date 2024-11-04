@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 38846330434ee3c40a493f9b5fc31fa4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/crypto/BufferedStreamCipher.cs
+  uploadId: 672585

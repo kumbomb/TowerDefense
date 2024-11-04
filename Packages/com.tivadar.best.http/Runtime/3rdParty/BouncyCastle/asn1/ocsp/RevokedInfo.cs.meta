@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74e47e4f5d7ee1348a13175e36afb12a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/asn1/ocsp/RevokedInfo.cs
+  uploadId: 672585

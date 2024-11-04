@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5a4422cb3a3a24439933184c181274f
+timeCreated: 1545143568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia X.asset
+  uploadId: 649729

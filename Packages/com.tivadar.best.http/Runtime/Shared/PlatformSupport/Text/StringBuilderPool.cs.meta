@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 86c608e2d4d42a34283884f8e9eca2f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/PlatformSupport/Text/StringBuilderPool.cs
+  uploadId: 672585

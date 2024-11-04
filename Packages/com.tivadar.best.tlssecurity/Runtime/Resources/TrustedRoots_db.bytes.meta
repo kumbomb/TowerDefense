@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e7a510d0ee548e4c9a69792e2c67335
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/Resources/TrustedRoots_db.bytes
+  uploadId: 664938

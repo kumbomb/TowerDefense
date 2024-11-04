@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: babc017ae3bd0284993d6b97b2d7b52c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Third Party Notices.md
+  uploadId: 672585

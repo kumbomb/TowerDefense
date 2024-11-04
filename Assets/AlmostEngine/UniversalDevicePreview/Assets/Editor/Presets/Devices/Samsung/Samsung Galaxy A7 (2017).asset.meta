@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99b51c11f869d7d4d885765886208a15
+timeCreated: 1545143568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy A7 (2017).asset
+  uploadId: 649729

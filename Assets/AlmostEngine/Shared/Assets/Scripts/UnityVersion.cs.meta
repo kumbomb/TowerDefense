@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b03a3eebd1bd99a4da190f1b07b68353
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/Assets/Scripts/UnityVersion.cs
+  uploadId: 649729

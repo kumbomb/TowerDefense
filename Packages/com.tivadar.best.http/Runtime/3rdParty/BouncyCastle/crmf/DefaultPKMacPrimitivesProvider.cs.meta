@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06b582b434459d242be3875ab28bfc00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/crmf/DefaultPKMacPrimitivesProvider.cs
+  uploadId: 672585

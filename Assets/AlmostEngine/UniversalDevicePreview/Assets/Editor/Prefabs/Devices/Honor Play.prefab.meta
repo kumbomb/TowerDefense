@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee93c41edf703ca4784e4548fda74a56
+timeCreated: 1546965245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Honor
+    Play.prefab
+  uploadId: 649729

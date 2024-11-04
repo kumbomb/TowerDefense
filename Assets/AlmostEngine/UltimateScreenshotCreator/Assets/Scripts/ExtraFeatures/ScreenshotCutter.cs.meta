@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbf53ecfb373dd449b02c1db6398ac1b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Scripts/ExtraFeatures/ScreenshotCutter.cs
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b74af31fa072c5499e1364270dcdaa1
+timeCreated: 1547049550
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy Note 7.asset
+  uploadId: 649729

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54a24cd1e0aed4343810e6d2cdbd6ded
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278534
+  packageName: GUI Pro - Super Casual
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI Pro-SuperCasual/Prefabs/Prefabs_DemoScene_Panels/PopupFull_CharacterLevelUp.prefab
+  uploadId: 679903

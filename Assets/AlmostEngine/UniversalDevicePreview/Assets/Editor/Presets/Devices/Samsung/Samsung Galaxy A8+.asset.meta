@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c13723a8914090345b7162fae958bfa1
+timeCreated: 1545143568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy A8+.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26b0577580a58da459202ad6e4e0a983
+timeCreated: 1545143561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    One M8.asset
+  uploadId: 649729

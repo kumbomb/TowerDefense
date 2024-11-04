@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a49b82f918782a4b85833b9e1b8c2cb
+timeCreated: 1545143566
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Motorola/Motorola
+    Moto X4.asset
+  uploadId: 649729

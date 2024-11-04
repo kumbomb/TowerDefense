@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 223a6fe877a01d64f95cb1c9b3e756c4
+timeCreated: 1568640772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Nintendo
+    Switch.prefab
+  uploadId: 649729

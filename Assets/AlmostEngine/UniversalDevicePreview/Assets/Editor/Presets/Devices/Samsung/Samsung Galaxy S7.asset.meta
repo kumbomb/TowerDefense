@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a7716d652766578449f58c8d5c78e4ba
+timeCreated: 1545143567
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy S7.asset
+  uploadId: 649729

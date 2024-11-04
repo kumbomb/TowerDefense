@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70640c7ec8e46094eb8aa994bfb45f4f
+timeCreated: 1545143567
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy S5.asset
+  uploadId: 649729

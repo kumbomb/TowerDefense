@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 698e9bc1cebe2584cb3f28c203a5f825
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/TLS/Crypto/Impl/FastAesEngineHelper.cs
+  uploadId: 672585

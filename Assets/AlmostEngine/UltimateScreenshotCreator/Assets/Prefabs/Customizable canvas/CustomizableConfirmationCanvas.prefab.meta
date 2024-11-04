@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ade53fb856578d44cae5245057cd4a75
+timeCreated: 1534431180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Customizable
+    canvas/CustomizableConfirmationCanvas.prefab
+  uploadId: 649729

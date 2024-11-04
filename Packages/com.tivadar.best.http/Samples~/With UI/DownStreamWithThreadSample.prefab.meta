@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b47f6bb24cee3342808f28e1e5e5123
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Samples~/With UI/DownStreamWithThreadSample.prefab
+  uploadId: 672585

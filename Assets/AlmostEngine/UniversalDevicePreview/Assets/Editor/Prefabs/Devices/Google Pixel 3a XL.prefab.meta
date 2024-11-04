@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2f3fd5734a71c045b956a24971d80a6
+timeCreated: 1568624602
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Google
+    Pixel 3a XL.prefab
+  uploadId: 649729

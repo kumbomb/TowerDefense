@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: baba03785208c564bb2903b9d92ea2f2
+timeCreated: 1545143559
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Asus/Asus
+    Zenfone 5.asset
+  uploadId: 649729

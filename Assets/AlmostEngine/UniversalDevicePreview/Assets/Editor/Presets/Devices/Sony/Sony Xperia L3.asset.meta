@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3795d4bf335e805488d4a684de806a47
+timeCreated: 1545143570
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia L3.asset
+  uploadId: 649729

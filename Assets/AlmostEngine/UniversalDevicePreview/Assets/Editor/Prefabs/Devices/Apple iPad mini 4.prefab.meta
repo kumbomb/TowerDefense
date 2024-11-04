@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1c0ba3ad48fdc042b7cc7ce0d217be7
+timeCreated: 1547800218
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Apple
+    iPad mini 4.prefab
+  uploadId: 649729

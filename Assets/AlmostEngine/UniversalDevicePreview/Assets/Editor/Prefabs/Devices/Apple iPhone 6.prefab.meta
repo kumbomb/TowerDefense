@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d894d1e726c463043a0c33e203b8e6c4
+timeCreated: 1546534654
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Apple
+    iPhone 6.prefab
+  uploadId: 649729

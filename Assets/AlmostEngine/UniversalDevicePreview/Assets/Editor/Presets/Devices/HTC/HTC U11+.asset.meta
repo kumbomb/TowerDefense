@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d87876587438de4d9912804cb743eb5
+timeCreated: 1546611698
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    U11+.asset
+  uploadId: 649729

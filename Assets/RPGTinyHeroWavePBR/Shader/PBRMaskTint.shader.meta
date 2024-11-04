@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b29e16cd6fe21340b7ca52e26be82ef
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228701
+  packageName: RPG Tiny Hero Wave PBR
+  packageVersion: 1.0
+  assetPath: Assets/RPGTinyHeroWavePBR/Shader/PBRMaskTint.shader
+  uploadId: 526056

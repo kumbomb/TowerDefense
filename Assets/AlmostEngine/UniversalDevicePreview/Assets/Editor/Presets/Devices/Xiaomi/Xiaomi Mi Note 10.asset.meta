@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 87a978d06cafc6541be2a095495033b6
+timeCreated: 1575971454
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Xiaomi/Xiaomi
+    Mi Note 10.asset
+  uploadId: 649729

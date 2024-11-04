@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e2226b717eb20b94c9cc6b546096e1ea
+timeCreated: 1533911220
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Scripts/ExtraFeatures/Gallery/ScreenshotGallery.cs
+  uploadId: 649729

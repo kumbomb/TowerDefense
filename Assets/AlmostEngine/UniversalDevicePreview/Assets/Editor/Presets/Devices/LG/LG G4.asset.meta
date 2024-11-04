@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2cbe635185bc8f34d898f92bb466e17d
+timeCreated: 1545143564
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/LG/LG
+    G4.asset
+  uploadId: 649729

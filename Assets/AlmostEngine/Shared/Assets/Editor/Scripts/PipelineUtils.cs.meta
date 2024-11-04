@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a0bb12cb9f612b24497b61ca05085a8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/Assets/Editor/Scripts/PipelineUtils.cs
+  uploadId: 649729

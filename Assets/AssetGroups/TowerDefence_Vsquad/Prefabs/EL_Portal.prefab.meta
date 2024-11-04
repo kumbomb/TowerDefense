@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a62c73c11424b94f8538ea9b3afbdfb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152854
+  packageName: MEGA Towers Pack
+  packageVersion: 1.1
+  assetPath: Assets/TowerDefence_Vsquad/Prefabs/EL_Portal.prefab
+  uploadId: 339001

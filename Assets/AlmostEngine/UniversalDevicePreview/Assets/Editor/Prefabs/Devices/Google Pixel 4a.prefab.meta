@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 71bd5fd00aafc4140b5b1ebbc2981c16
+timeCreated: 1547051216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Google
+    Pixel 4a.prefab
+  uploadId: 649729

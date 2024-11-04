@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2060fa4f7e1c9154d943b08109d0bff5
+timeCreated: 1546966130
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Huawei
+    Mate 20 Pro.prefab
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bca305fef65e01d47bd5d57ee596a21e
+timeCreated: 1545143562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    Bolt.asset
+  uploadId: 649729

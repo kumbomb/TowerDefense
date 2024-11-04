@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 75568e39cdec8204685aa1474b8986e2
+timeCreated: 1519026824
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Scripts/DevicePreviewAssetInspector.cs
+  uploadId: 649729

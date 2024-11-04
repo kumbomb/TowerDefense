@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ecc989e8594d434dbf6f61fffd3acc2
+timeCreated: 1545143558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhoneWithStatusBar/Apple
+    iPhone 8 (with status bar).asset
+  uploadId: 649729

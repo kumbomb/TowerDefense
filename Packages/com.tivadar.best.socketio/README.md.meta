@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddb6e1da09171c04f832cb027cdc4488
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/README.md
+  uploadId: 664927

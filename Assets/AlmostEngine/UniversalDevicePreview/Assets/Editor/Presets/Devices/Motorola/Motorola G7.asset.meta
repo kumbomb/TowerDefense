@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed77af1bd1f407142a2221d55d7388c0
+timeCreated: 1546612354
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Motorola/Motorola
+    G7.asset
+  uploadId: 649729

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9069ac25d95ca17448a247f3bb1c769f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/com.Tivadar.Best.HTTP.asmdef
+  uploadId: 672585

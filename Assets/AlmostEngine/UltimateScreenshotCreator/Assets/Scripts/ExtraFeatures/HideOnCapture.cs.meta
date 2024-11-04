@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1d6d297f9405ad47aa89b1f10c2924f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Scripts/ExtraFeatures/HideOnCapture.cs
+  uploadId: 649729

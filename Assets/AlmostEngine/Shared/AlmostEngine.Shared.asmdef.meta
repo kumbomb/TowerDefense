@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90d0bdc08bedbc6459068aff3aca38dc
+timeCreated: 1619281643
+licenseType: Store
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/AlmostEngine.Shared.asmdef
+  uploadId: 649729

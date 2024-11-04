@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc638d3c9d333c64bad41728fe8935d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/math/ec/custom/sec/SecP256K1Curve.cs
+  uploadId: 672585

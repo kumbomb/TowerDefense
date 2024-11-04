@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b419c6c45db5e341a0da19489241776
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Examples/Scripts/HideAndroidButtons.cs
+  uploadId: 649729

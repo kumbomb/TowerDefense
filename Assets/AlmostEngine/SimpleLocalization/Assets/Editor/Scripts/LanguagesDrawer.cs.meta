@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f2c8987a3d6d7ae4da4617971d957eec
+timeCreated: 1545131945
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/SimpleLocalization/Assets/Editor/Scripts/LanguagesDrawer.cs
+  uploadId: 649729

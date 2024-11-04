@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 667e08250ae2460468ebdef33e15649b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/CHANGELOG.md
+  uploadId: 664938

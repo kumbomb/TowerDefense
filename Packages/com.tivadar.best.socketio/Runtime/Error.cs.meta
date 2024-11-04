@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25a22f126a8af314abecd7c6a4e5bca6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/Runtime/Error.cs
+  uploadId: 664927

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 452a1362274661244bb9e2f84209221c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Samples~/With UI/UI Helpers/GUIHelper.cs
+  uploadId: 672586

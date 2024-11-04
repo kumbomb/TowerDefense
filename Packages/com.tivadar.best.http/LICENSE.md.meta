@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2e6e996ec793e84fa9174fa8769cc7f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/LICENSE.md
+  uploadId: 672585

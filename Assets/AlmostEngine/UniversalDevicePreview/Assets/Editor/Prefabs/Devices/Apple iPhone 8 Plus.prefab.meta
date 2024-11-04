@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aaea7d8408fb8f5408826377de04583f
+timeCreated: 1546872513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Apple
+    iPhone 8 Plus.prefab
+  uploadId: 649729

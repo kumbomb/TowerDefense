@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49f9bf8ea9bc34cf8b68d96a1d81bc6b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278534
+  packageName: GUI Pro - Super Casual
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI Pro-SuperCasual/Prefabs/Prefabs_DemoScene_Panels/Popup_Mailbox_NoMessage.prefab
+  uploadId: 679903

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7be61ddba6abf24408b3c0b3628055b5
+timeCreated: 1546612063
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia XZ2.asset
+  uploadId: 649729

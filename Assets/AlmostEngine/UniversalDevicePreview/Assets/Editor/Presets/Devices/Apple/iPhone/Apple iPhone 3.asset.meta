@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b6d62ea092342a49b32bc837ceb5af6
+timeCreated: 1545143557
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone 3.asset
+  uploadId: 649729

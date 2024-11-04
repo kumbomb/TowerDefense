@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37df5c499fe1849b9977ad6f7a41b752
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278534
+  packageName: GUI Pro - Super Casual
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI Pro-SuperCasual/Prefabs/Prefabs_DemoScene_Panels/PopupDim_NetworkError.prefab
+  uploadId: 679903

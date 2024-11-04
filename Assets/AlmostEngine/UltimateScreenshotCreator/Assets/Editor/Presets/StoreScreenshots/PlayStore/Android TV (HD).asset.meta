@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a7d3acb31edb4ca4696597b1c3074e1b
+timeCreated: 1556842964
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/PlayStore/Android
+    TV (HD).asset
+  uploadId: 649729

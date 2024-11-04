@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff13e6535a8044c73a92f7d54b49a4f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278534
+  packageName: GUI Pro - Super Casual
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI Pro-SuperCasual/Prefabs/Prefabs_Component_Popups/Popup_List_VerticalLayout_Dark.prefab
+  uploadId: 679903

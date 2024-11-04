@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7c7b94536f8416468021fa15f00b11e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Runtime/Implementations/OverHTTP1.cs
+  uploadId: 672586

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 829c9b91b5d11d04596220bd53f19323
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Scripts/ExtraFeatures/ValidationCanvas.cs
+  uploadId: 649729

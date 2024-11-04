@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d84185bdf433bf84bbed49b7d651b531
+timeCreated: 1545126386
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Examples/Scenes/CompositionExample.unity
+  uploadId: 649729

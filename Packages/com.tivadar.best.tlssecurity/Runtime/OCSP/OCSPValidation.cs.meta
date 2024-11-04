@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea081f19fc9796d478ff53bd8c21ae71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/OCSP/OCSPValidation.cs
+  uploadId: 664938

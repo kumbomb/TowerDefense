@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdd630743d7704d47bf0dfb7ff9bee5c
+timeCreated: 1547051216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Google
+    Pixel 4.prefab
+  uploadId: 649729

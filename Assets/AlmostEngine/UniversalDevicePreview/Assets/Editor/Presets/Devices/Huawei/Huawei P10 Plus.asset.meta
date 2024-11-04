@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2438a544618af6a4d932030619ce9845
+timeCreated: 1545143563
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Huawei/Huawei
+    P10 Plus.asset
+  uploadId: 649729

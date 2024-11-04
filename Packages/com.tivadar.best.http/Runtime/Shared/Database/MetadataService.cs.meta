@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 36cd9f102ecc80746bc7ff850f782e32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/Database/MetadataService.cs
+  uploadId: 672585

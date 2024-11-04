@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f1a3db4ad5927624182f465b44a2f2ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/HTTP/Caching/HTTPCacheContentWriter.cs
+  uploadId: 672585

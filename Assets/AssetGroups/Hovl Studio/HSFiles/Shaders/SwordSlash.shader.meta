@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cfdd144ceb76ec942b649cc196c1440c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTexture: {instanceID: 0}
+  - _EmissionTex: {instanceID: 0}
+  - _Dissolve: {instanceID: 0}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173450
+  packageName: Sword slashes PRO
+  packageVersion: 2.3.1
+  assetPath: Assets/Hovl Studio/HSFiles/Shaders/SwordSlash.shader
+  uploadId: 607001

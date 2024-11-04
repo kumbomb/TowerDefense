@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e00a508ef7eac54988d4750d1f4a9f7
+timeCreated: 1545143559
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Asus/Asus
+    Zenfone 2.asset
+  uploadId: 649729

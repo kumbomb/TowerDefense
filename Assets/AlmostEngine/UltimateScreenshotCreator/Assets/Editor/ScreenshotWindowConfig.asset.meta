@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e925f19ae4951ff468b471cc84933d96
+timeCreated: 1518698983
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/ScreenshotWindowConfig.asset
+  uploadId: 649729

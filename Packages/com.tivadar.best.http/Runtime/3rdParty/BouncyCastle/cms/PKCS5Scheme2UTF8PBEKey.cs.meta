@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69ecc2bd537aa374aa456aef7b7e3827
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/cms/PKCS5Scheme2UTF8PBEKey.cs
+  uploadId: 672585

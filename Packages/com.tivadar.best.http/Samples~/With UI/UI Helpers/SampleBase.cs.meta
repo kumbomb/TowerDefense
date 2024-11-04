@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f8792c52d9520447a1c9d7139925f57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Samples~/With UI/UI Helpers/SampleBase.cs
+  uploadId: 672585

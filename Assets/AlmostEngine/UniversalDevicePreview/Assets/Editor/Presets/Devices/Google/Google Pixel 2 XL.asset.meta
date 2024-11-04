@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2734bcea621a0dd4796b8c30e88455b6
+timeCreated: 1545143561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 2 XL.asset
+  uploadId: 649729

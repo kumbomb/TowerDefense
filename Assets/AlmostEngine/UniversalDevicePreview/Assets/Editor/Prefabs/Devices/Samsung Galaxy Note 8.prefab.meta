@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e6b039dc54973c408958b7498b93fe0
+timeCreated: 1547048528
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy Note 8.prefab
+  uploadId: 649729

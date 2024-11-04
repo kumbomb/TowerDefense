@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b8c2bb870a4a004ca769cfb725e398a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184856
+  packageName: Archer skills pack
+  packageVersion: 1.2
+  assetPath: Assets/Hovl Studio/Archer skills pack/Demo scene/Archer/ArcherController.controller
+  uploadId: 606868

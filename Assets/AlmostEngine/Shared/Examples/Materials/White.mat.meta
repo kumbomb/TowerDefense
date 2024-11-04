@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12bbf4686c52a1c458ad4faeeb8c41b7
+timeCreated: 1478968604
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/Examples/Materials/White.mat
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1a8692fee95cdd4e8cedb8d75ae285c
+timeCreated: 1545143573
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/16_9/5K
+    UHD.asset
+  uploadId: 649729

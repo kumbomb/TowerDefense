@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 16879890b05245b4294090b6b29085e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/UnityInterface/UnpackDatabaseScript.cs
+  uploadId: 664938

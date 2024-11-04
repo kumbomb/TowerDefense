@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20eec84862e07e04597ed7e95770266a
+timeCreated: 1545143561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    One A9.asset
+  uploadId: 649729

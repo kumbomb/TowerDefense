@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6692e9560a7e63a4ca38b529839215f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/Databases/X509/X509Database.cs
+  uploadId: 664938

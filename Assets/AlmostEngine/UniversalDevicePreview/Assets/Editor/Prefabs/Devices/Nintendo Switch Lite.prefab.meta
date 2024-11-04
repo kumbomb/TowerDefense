@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ce95e29f08b28b94bb28dd849f416a50
+timeCreated: 1568640772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Nintendo
+    Switch Lite.prefab
+  uploadId: 649729

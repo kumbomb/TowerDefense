@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 916c2205d88c45e4aadff33f8aee6ce2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/Samples~/With UI/com.Tivadar.Best.SocketIO.Samples.WithUI.asmdef
+  uploadId: 664927

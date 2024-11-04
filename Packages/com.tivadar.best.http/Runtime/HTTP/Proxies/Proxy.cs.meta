@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0dba9c2697d5e17498d9cfd573452f4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/HTTP/Proxies/Proxy.cs
+  uploadId: 672585

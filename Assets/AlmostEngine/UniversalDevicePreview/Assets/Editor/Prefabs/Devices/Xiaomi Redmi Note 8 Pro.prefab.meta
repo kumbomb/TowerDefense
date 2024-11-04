@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91505643abac8e14ca16db545691ba40
+timeCreated: 1579189731
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Xiaomi
+    Redmi Note 8 Pro.prefab
+  uploadId: 649729

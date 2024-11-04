@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fdbf459583735174c947d58cadbadbae
+timeCreated: 1556840749
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/iPhone
+    6.5 inch - 11 Pro Max, 11, XS Max, XR.asset
+  uploadId: 649729

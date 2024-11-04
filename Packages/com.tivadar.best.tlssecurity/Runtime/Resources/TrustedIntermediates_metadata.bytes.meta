@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e865afa2120702f4fb650a34c45dda66
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/Resources/TrustedIntermediates_metadata.bytes
+  uploadId: 664938

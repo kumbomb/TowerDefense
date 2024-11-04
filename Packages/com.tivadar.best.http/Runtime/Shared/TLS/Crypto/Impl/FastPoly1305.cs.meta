@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2627205c5f9cbe643ba4be10fc82bda3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/TLS/Crypto/Impl/FastPoly1305.cs
+  uploadId: 672585

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 595c6c933e29e394cb24d7974bdbeace
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152854
+  packageName: MEGA Towers Pack
+  packageVersion: 1.1
+  assetPath: Assets/TowerDefence_Vsquad/Prefabs/Bullets/FE_moth_Bullet_1.prefab
+  uploadId: 339001

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 51ee8232bfdf9704da4b61d34c40589f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Samples/Batched Tests/BatchedTestEntry.cs
+  uploadId: 664938

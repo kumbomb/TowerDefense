@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fbe35b0f39bd6c14aa806560a1234e6d
+timeCreated: 1545143562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Huawei/Huawei
+    P9 Lite.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b89205ae47110543b45eb1bd584882e
+timeCreated: 1546611547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 3 XL.asset
+  uploadId: 649729

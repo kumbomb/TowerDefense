@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7f030acecd2caba4bb3ebf45c802170f
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Examples/Animation/ButtonMain.controller
+  uploadId: 649729

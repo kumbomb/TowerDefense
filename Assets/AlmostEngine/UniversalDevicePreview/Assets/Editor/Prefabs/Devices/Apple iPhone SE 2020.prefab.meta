@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa3d8ba952f3599488b0b50331dd42d0
+timeCreated: 1546872982
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Apple
+    iPhone SE 2020.prefab
+  uploadId: 649729

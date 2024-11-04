@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8aa748707fd4cf941aaef23e28665afe
+timeCreated: 1545143570
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Wileyfox/Wileyfox
+    Spark X.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d08efecefa3cbb840b3644608f6c7fa4
+timeCreated: 1545143565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/LG/LG
+    Fortune.asset
+  uploadId: 649729

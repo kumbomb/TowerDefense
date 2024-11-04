@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33167f599a3ead94a9dc6f43142754d5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Samples~/With UI/WebSocket Samples.unity
+  uploadId: 672586

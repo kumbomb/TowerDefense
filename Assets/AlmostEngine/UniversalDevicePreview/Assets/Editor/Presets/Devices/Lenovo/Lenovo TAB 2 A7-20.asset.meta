@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 604086877c2978e4481d53c257ca1eda
+timeCreated: 1571160259
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Lenovo/Lenovo
+    TAB 2 A7-20.asset
+  uploadId: 649729

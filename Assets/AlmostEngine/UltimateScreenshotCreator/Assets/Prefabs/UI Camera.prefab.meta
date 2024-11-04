@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f75961c6c6dca464794bfbc16047de5c
+timeCreated: 1545128905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/UI Camera.prefab
+  uploadId: 649729

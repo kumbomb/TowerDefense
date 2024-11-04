@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 35ff1f4adc885664f81bfdbaba23ccec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184856
+  packageName: Archer skills pack
+  packageVersion: 1.2
+  assetPath: Assets/Hovl Studio/Archer skills pack/Prefabs/Light arrow/LightArrow
+    Hit.prefab
+  uploadId: 606868

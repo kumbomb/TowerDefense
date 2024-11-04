@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: debf08c5511cb2047b19b770b4b3fdb8
+timeCreated: 1545143568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy Note 4.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f7d68493eb319d46b025a4057dd7302
+timeCreated: 1568640772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy Tab S5e.prefab
+  uploadId: 649729

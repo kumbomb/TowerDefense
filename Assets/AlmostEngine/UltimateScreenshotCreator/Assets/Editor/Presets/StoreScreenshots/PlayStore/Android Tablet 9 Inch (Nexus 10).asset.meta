@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26574863a4ed1454b825211e0288142a
+timeCreated: 1556842094
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/PlayStore/Android
+    Tablet 9 Inch (Nexus 10).asset
+  uploadId: 649729

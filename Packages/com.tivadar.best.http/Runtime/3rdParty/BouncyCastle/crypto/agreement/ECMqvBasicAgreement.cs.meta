@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e8724404ca73f874eb3e58672f8d7059
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/crypto/agreement/ECMqvBasicAgreement.cs
+  uploadId: 672585

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e845f0c5f946f5c4a963c1248a54d4e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/cmp/ProtectedPkiMessageBuilder.cs
+  uploadId: 672585

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f4f187b74d3d1c4abe2f605d4a967a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/Databases/OCSP/OCSPCacheEntry.cs
+  uploadId: 664938

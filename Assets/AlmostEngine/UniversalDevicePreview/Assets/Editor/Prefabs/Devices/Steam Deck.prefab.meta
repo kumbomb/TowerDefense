@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 264941ac6d22d37428769ff0522861a5
+timeCreated: 1568640772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Steam
+    Deck.prefab
+  uploadId: 649729

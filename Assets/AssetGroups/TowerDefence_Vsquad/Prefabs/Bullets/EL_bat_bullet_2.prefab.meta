@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35c60c8f8b692474ca84cfe0dea874c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152854
+  packageName: MEGA Towers Pack
+  packageVersion: 1.1
+  assetPath: Assets/TowerDefence_Vsquad/Prefabs/Bullets/EL_bat_bullet_2.prefab
+  uploadId: 339001

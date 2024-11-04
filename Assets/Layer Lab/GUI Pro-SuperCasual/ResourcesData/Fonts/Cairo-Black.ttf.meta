@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 22311bfb9f13b412d882972747f44ae1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cairo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278534
+  packageName: GUI Pro - Super Casual
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI Pro-SuperCasual/ResourcesData/Fonts/Cairo-Black.ttf
+  uploadId: 679903

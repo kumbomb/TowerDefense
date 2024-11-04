@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 01b6bb7a29a6e7447baf8768ab665143
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/Extensions/HeaderValue.cs
+  uploadId: 672585

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40c902892156f224a95b4e1d4bc06f7e
+timeCreated: 1545130572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Process/Set
+    language default Process.prefab
+  uploadId: 649729

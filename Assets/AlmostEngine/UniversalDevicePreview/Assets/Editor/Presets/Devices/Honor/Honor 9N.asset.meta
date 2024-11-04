@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6cc74090315842408f787bb970cffe9
+timeCreated: 1546612514
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Honor/Honor
+    9N.asset
+  uploadId: 649729

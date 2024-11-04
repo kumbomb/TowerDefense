@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 53ebfdfdf1d0c9d45a98c18b97154411
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/tls/crypto/impl/bc/BcX448.cs
+  uploadId: 672585

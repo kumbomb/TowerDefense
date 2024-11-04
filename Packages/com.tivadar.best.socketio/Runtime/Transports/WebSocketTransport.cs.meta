@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d83cc6096fcbb24469784dfa657b7055
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/Runtime/Transports/WebSocketTransport.cs
+  uploadId: 664927

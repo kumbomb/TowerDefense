@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cabd96d4b4fb45e4a9477ae611e12485
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/asn1/pkcs/EncryptedPrivateKeyInfo.cs
+  uploadId: 672585

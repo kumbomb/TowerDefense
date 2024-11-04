@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fdca60bc7ff5b9a49a799ae1481a99bd
+timeCreated: 1568637547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy S10.prefab
+  uploadId: 649729

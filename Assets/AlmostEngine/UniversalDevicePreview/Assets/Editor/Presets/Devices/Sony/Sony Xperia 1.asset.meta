@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c7893984dfc7cf4b9669c62f682c777
+timeCreated: 1545143568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia 1.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79be38805209f924cbc3f89a6c3bc21e
+timeCreated: 1545143559
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPad/Apple
+    iPad Pro 12.9 (2020).asset
+  uploadId: 649729

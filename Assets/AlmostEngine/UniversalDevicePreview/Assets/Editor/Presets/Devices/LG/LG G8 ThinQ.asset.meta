@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d018a87c9bf22994eacd14a73da8b7e2
+timeCreated: 1568634713
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/LG/LG
+    G8 ThinQ.asset
+  uploadId: 649729

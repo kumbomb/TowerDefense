@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: efbc3c9e712aef64b8f0de50c6fa0ad5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/PlatformSupport/Network/Tcp/Streams/NonblockingUnderlyingStream.cs
+  uploadId: 672585

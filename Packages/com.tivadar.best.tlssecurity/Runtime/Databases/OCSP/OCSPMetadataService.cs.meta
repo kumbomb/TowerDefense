@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d7afd6c2e51e084fb30eac1968cc6d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Runtime/Databases/OCSP/OCSPMetadataService.cs
+  uploadId: 664938

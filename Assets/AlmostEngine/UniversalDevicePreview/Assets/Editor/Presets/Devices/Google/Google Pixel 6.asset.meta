@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4404a6954117c624ea23b1dcb19ba4b5
+timeCreated: 1546611542
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 6.asset
+  uploadId: 649729

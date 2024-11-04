@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ad26e4796e02484b8db2961e064ba44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/Compression/Zlib/ZlibConstants.cs
+  uploadId: 672585

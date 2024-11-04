@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b772591c01a8774c92a9197cb2a46ca
+timeCreated: 1546612287
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/LG/LG
+    V40 ThinQ.asset
+  uploadId: 649729

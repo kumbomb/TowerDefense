@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 966ea675eb8d8f1479aa70bc34e856e6
+timeCreated: 1545143574
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/Other/FWXGA.asset
+  uploadId: 649729

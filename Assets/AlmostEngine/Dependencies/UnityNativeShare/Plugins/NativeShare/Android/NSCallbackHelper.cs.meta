@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8b7cf25514ddb4f4c954e0b3a0bfe72d
+timeCreated: 1594464639
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Dependencies/UnityNativeShare/Plugins/NativeShare/Android/NSCallbackHelper.cs
+  uploadId: 649729

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a356f5f6daf94f478adfebd035ca408
+timeCreated: 1518713039
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/UniversalDevicePreviewConfig.asset
+  uploadId: 649729

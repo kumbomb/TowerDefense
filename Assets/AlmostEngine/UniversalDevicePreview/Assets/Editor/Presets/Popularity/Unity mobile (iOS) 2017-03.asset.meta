@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4807dc4121a522a48b9363ce569f321c
+timeCreated: 1545143574
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Popularity/Unity
+    mobile (iOS) 2017-03.asset
+  uploadId: 649729

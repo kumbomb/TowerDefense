@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9496e81c58820bb4c854543233a38115
+timeCreated: 1545143561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    Desire 10 Lifestyle.asset
+  uploadId: 649729

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0c2669b51387d34c9a4f9e40593d786
+timeCreated: 1535203762
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Examples/Scenes/OffscreenRenderingExample.unity
+  uploadId: 649729

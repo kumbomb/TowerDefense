@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9d6fdbfe4a6b5d344b2850f789d35a3f
+timeCreated: 1547044636
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy J7 (2017).prefab
+  uploadId: 649729

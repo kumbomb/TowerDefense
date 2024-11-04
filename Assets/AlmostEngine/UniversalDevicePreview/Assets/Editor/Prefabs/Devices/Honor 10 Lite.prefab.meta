@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 35b59c20c7d3bbc4a833ae4fe9c801a9
+timeCreated: 1546964931
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Honor
+    10 Lite.prefab
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 821b87d7a9ff5294589dbb31f8ba5e52
+timeCreated: 1545143566
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/OnePlus/OnePlus
+    3T.asset
+  uploadId: 649729

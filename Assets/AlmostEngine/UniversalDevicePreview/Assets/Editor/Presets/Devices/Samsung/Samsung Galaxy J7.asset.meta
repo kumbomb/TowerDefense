@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e03a49307353e7b46ad8d53db7e94212
+timeCreated: 1545143567
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy J7.asset
+  uploadId: 649729

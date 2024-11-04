@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d0dc96d83721644786630e58d1a8218
+timeCreated: 1575971454
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Xiaomi/Xiaomi
+    Redmi Note 5.asset
+  uploadId: 649729

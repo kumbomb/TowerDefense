@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3c438f2e5b073149828cada0f5877fa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Scripts/ResolutionWindowBase.cs
+  uploadId: 649729

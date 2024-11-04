@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d9373fa7a394804ab96a6ee0203f22c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Samples~/With UI/UI Helpers/MultiTextListItem.cs
+  uploadId: 672585

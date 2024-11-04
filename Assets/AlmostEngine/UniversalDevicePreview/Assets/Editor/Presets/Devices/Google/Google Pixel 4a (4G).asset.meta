@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 803cba0e4bd7bd74f9407d37a28d2551
+timeCreated: 1546611542
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 4a (4G).asset
+  uploadId: 649729

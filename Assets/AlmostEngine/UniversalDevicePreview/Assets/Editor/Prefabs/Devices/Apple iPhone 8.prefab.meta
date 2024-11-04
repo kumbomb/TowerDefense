@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba8ee4dbf9e292e4995d01f0a50e0a10
+timeCreated: 1546872238
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Apple
+    iPhone 8.prefab
+  uploadId: 649729

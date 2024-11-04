@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c2a532dca560484ca0a2ec62eefe4b4
+timeCreated: 1545143557
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone 5.asset
+  uploadId: 649729

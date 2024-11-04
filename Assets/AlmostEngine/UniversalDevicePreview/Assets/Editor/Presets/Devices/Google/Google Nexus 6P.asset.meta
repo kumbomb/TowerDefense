@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfb866ee9b664184dbfabb43b45d8c6b
+timeCreated: 1545143560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Nexus 6P.asset
+  uploadId: 649729

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 277a80b5609ce0441a8f4b6e014524f1
+timeCreated: 1546441252
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/DeviceCameraRenderer.prefab
+  uploadId: 649729

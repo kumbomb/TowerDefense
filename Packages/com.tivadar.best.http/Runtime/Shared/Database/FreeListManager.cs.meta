@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b0aa37cc0a1f5054f8ffb64d2cef5c5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/Database/FreeListManager.cs
+  uploadId: 672585

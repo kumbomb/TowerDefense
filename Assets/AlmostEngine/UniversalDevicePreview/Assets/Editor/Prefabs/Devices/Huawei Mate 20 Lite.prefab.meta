@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87fede80c11c29c40b04c43d25de7770
+timeCreated: 1546966379
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Huawei
+    Mate 20 Lite.prefab
+  uploadId: 649729

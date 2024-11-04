@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ecc195b514ef1845a5526d86b7b9128
+timeCreated: 1546612675
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Nokia/Nokia
+    3.1.asset
+  uploadId: 649729

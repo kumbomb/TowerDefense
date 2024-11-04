@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84667e556b6db354c9af2e23cf4a292c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Editor/com.Tivadar.Best.TLSSecurity.Editor.asmdef
+  uploadId: 664938

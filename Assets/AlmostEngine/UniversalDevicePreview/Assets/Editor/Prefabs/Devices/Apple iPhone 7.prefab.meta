@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e92c85b20b29ef44f9eae4be39fca20e
+timeCreated: 1546871647
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Apple
+    iPhone 7.prefab
+  uploadId: 649729

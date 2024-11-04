@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c7ff3b79681a6049be45532a1dc31ad
+timeCreated: 1556840452
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Mac.asset
+  uploadId: 649729

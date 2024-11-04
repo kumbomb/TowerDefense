@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 30bb57527e3ea574bbeed93b1ea75c6e
+timeCreated: 1545143569
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia E5.asset
+  uploadId: 649729

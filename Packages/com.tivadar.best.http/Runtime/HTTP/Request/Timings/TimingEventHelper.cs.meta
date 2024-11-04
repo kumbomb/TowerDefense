@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f9036f9462b279d44a24d4b10067497f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/HTTP/Request/Timings/TimingEventHelper.cs
+  uploadId: 672585

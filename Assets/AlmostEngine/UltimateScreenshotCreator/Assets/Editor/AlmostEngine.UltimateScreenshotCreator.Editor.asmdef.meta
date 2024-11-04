@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 194042deb17701845976ea3b70d268bb
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/AlmostEngine.UltimateScreenshotCreator.Editor.asmdef
+  uploadId: 649729

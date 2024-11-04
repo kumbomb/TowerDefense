@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f31e215f0fecad48b5d83b9df9137fe
+timeCreated: 1546612677
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Nokia/Nokia
+    7.1.asset
+  uploadId: 649729

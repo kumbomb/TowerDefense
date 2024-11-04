@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fce735749516e4341afddee21d28e6ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152854
+  packageName: MEGA Towers Pack
+  packageVersion: 1.1
+  assetPath: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Cube.prefab
+  uploadId: 339001

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d431e83498bf4e4ca74b625bd325144
+timeCreated: 1568620942
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone 11 Pro.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91d7e4e5e676a0640a6778b89ec321fb
+timeCreated: 1545143569
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia XZ1 Compact.asset
+  uploadId: 649729

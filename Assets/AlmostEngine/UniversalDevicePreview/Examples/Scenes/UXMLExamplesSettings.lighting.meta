@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a261f5bc23b561649b240d5830fe7ee0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Examples/Scenes/UXMLExamplesSettings.lighting
+  uploadId: 649729

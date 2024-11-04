@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2943f58040010404f8a2c14fe69894dd
+timeCreated: 1545143558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone 12 Pro.asset
+  uploadId: 649729

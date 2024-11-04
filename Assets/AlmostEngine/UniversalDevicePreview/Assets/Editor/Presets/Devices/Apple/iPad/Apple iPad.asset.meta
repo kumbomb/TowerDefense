@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 43b14027f5c101a459577be0e53ad895
+timeCreated: 1545143558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPad/Apple
+    iPad.asset
+  uploadId: 649729

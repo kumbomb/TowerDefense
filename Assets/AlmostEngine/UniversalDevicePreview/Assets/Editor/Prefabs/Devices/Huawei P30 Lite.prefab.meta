@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5294e50be96104643929f6325ed7e55f
+timeCreated: 1546967524
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Huawei
+    P30 Lite.prefab
+  uploadId: 649729

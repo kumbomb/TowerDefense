@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e57840b52f5fe04d99450cfa0412e88
+timeCreated: 1545143565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Motorola/Motorola
+    Droid Turbo.asset
+  uploadId: 649729

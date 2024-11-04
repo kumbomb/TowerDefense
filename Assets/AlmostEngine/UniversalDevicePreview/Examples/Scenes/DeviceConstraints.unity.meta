@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 06b97d95b8353d84ea986919fd7c4fd5
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Examples/Scenes/DeviceConstraints.unity
+  uploadId: 649729

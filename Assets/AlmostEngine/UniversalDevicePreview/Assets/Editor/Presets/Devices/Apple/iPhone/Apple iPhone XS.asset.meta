@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4aea47bbfb0f4b740a4bf8ef431efa37
+timeCreated: 1546526069
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone XS.asset
+  uploadId: 649729

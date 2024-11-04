@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e0ef2deb85cffc4f9f46609d13b5669
+timeCreated: 1546611976
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Huawei/Huawei
+    Mate 20 Lite.asset
+  uploadId: 649729

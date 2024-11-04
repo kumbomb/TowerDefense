@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28c4ee5d767a03a4aa8cf1fb476edb85
+timeCreated: 1568626388
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Huawei
+    P30.prefab
+  uploadId: 649729

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Weapon01_M
+  m_Shader: {fileID: 4800000, guid: cf2452d26fac26541be2fbd2fdf36655, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - TCP2_SPECULAR
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: f1a2f278be9fdc84282fda8f24ea30be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission1:
+        m_Texture: {fileID: 2800000, guid: f1a2f278be9fdc84282fda8f24ea30be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f1a2f278be9fdc84282fda8f24ea30be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: ccad9b0732473ee4e95de81e50e9050f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimColor1:
+        m_Texture: {fileID: 2800000, guid: f1a2f278be9fdc84282fda8f24ea30be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularColor1:
+        m_Texture: {fileID: 2800000, guid: f1a2f278be9fdc84282fda8f24ea30be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _RampSmoothing: 1
+    - _RampThreshold: 0.5
+    - _ReceiveShadowsOff: 1
+    - _RimMax: 1.13
+    - _RimMin: 0.59
+    - _SpecularRoughnessPBR: 0.27
+    - _UseSpecular: 1
+    - __dummy__: 0
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0.1981132, g: 0.1981132, b: 0.1981132, a: 1}
+    - _HColor: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
+    - _RimDir: {r: 0.1, g: 0, b: 1, a: 1}
+    - _SColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SilhouetteColor: {r: 0, g: 0, b: 0, a: 0.7058824}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b19b07416cb1cc4caeab8ac71cd9954
+timeCreated: 1545143565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Microsoft/Microsoft
+    Lumia 950 XL.asset
+  uploadId: 649729

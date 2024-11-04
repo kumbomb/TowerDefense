@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4e0ab8fc9ba59e428c52b09994adc10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Apple
+    Watch Series 3.asset
+  uploadId: 649729

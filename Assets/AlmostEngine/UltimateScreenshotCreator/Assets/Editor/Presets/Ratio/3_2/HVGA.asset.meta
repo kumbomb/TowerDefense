@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e877bb7e37935a94398f3461628df298
+timeCreated: 1545143570
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/3_2/HVGA.asset
+  uploadId: 649729

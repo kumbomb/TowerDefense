@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f0fb6670f940a04fbf6bd3190b714be
+timeCreated: 1545143565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Microsoft/Microsoft
+    Lumia 950.asset
+  uploadId: 649729

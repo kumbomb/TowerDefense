@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e89ee0ea7f2ac404dbd0e5623c1fa1aa
+timeCreated: 1545143566
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy S4.asset
+  uploadId: 649729

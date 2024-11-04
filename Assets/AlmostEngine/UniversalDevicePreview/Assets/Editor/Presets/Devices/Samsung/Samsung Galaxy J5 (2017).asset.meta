@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9e164f8845cb8d4787adf03b5dc14ba
+timeCreated: 1547048809
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Samsung/Samsung
+    Galaxy J5 (2017).asset
+  uploadId: 649729

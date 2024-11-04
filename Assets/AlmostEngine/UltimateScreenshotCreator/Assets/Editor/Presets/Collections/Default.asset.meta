@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 563efee6fa303c040bc70cadb4a48517
+timeCreated: 1594197477
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Collections/Default.asset
+  uploadId: 649729

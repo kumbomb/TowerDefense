@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2aadb4e60594ab741a34f91a4fbd8fdb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152854
+  packageName: MEGA Towers Pack
+  packageVersion: 1.1
+  assetPath: Assets/TowerDefence_Vsquad/Materials/Scene/sky.shader
+  uploadId: 339001

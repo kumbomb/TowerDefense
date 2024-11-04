@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e302cbe695f98084f99cc65c199347fb
+timeCreated: 1545143565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Microsoft/Microsoft
+    Lumia 650.asset
+  uploadId: 649729

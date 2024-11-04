@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66b1c498a87e5a245931edb8d3646d7e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/CHANGELOG.md
+  uploadId: 664927

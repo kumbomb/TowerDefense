@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4165d792bbefcb409f9f2659a36c7ed
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/Runtime/csc.rsp
+  uploadId: 664927

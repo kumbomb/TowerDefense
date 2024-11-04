@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 66fe3dcf5f36d7243864196923b7ef29
+timeCreated: 1545309596
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Scripts/ExtraFeatures/ShowScreenshotThumbnail.cs
+  uploadId: 649729

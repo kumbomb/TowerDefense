@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc1adc146b0f9a64497be22f9e9dac08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/TLS/Crypto/FastTlsCrypto.cs
+  uploadId: 672585

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dc93757f2040d9f4b970b3a100ddce69
+timeCreated: 1546963218
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Honor
+    10.prefab
+  uploadId: 649729

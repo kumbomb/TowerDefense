@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26a8f829aea269e4c82b72e2738417bf
+timeCreated: 1609948236
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Popularity/Most
+    Popular iPhones - DeviceAtlas 2020 - Japan.asset
+  uploadId: 649729

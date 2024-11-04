@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c2f3f1fc8fce7414e8bc7787fb80b1f8
+timeCreated: 1545143574
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Popularity/Steam
+    hardware 2017-12.asset
+  uploadId: 649729

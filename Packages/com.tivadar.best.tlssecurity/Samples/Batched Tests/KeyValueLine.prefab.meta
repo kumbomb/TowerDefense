@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 444cd44562782524d94e4342da32e96d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Samples/Batched Tests/KeyValueLine.prefab
+  uploadId: 664938

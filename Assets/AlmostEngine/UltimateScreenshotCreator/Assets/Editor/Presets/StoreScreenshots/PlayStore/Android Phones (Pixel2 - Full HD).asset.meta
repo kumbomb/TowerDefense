@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9613cc0abad23e44a3a6cea3e636955
+timeCreated: 1556843219
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/PlayStore/Android
+    Phones (Pixel2 - Full HD).asset
+  uploadId: 649729

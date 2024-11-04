@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2363bef55cb562846a73b595c4e87318
+timeCreated: 1575971454
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Xiaomi/Xiaomi
+    Redmi 6A.asset
+  uploadId: 649729

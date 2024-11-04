@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab4950060a43c21489132a2476105682
+timeCreated: 1545143566
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Motorola/Motorola
+    G5 Plus.asset
+  uploadId: 649729

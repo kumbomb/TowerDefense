@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25179c491c36d554e89facefd79d266a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/README.md
+  uploadId: 672586

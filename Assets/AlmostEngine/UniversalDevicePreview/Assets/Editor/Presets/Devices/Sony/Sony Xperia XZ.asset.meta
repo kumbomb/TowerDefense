@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f9db43bb21fd434f83f211622520f82
+timeCreated: 1545143569
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia XZ.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b127199a144fff844a11c7d55f5d5be2
+timeCreated: 1547051216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy S8+.prefab
+  uploadId: 649729

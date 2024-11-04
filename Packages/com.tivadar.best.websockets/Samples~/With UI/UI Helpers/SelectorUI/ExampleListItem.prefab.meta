@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 423c9c7e124358e408330ae6ff76872f
+timeCreated: 1571212394
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Samples~/With UI/UI Helpers/SelectorUI/ExampleListItem.prefab
+  uploadId: 672586

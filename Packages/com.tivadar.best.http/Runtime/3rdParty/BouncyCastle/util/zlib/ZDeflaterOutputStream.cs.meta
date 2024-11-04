@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1fa0281e01139414eaf2bf7d58644a94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/util/zlib/ZDeflaterOutputStream.cs
+  uploadId: 672585

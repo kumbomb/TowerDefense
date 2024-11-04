@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d9114310976aca54b9a05c99e47a96ab
+timeCreated: 1546967529
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Huawei
+    P20.prefab
+  uploadId: 649729

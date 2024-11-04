@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bba0e49b0b1b9924ab06cd58867f661c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Runtime/com.Tivadar.Best.WebSockets.asmdef
+  uploadId: 672586

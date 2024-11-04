@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b57c2a219d318544bb0b2a3e636c1080
+timeCreated: 1546611542
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 5.asset
+  uploadId: 649729

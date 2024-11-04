@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b274f38991e403a4fba090fb93af8efc
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/ExcludeFromBuildTool/Assets/Editor/AlmostEngine.ExcludeFromBuildTool.Editor.asmdef
+  uploadId: 649729

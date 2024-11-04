@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c993f662471e794408aefee7b7352d33
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/Assets/Scripts/CameraController.cs
+  uploadId: 649729

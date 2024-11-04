@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90a5e1667e7864a4a811f75aba4b46e3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/LICENSE.md
+  uploadId: 664938

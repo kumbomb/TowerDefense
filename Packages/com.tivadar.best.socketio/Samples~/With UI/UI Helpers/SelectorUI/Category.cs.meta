@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4b59fedf46690f744a8a739f931782d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/Samples~/With UI/UI Helpers/SelectorUI/Category.cs
+  uploadId: 664927

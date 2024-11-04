@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a9f3620172a5dcd4ba2896ffb2ef7759
+timeCreated: 1545143560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Nexus 10.asset
+  uploadId: 649729

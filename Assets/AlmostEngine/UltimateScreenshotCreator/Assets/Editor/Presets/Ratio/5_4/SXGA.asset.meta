@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30a34f27fdff9774485c6283a82f93d0
+timeCreated: 1545143572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/5_4/SXGA.asset
+  uploadId: 649729

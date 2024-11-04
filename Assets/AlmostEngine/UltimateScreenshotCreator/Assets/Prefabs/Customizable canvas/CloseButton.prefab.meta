@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d6e52aa71527d624d9b5cc2e430b228f
+timeCreated: 1581438829
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Customizable
+    canvas/CloseButton.prefab
+  uploadId: 649729

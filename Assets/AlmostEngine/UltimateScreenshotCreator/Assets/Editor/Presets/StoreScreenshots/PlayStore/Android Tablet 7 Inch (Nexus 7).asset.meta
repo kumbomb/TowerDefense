@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3fa02509aef3bf4baceae4cdfa56912
+timeCreated: 1556842084
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/PlayStore/Android
+    Tablet 7 Inch (Nexus 7).asset
+  uploadId: 649729

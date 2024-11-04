@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d54ee04f43072c4495c2465c4848894
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/Assets/Scripts/MultiDisplayUtils.cs
+  uploadId: 649729

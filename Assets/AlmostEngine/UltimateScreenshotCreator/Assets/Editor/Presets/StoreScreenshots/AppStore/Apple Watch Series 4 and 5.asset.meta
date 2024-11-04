@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41f40536c5c1741468f95c9fb6e388a7
+timeCreated: 1556840330
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Apple
+    Watch Series 4 and 5.asset
+  uploadId: 649729

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ba1ad3f47772da41bfae31df5e0b7e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Samples/Batched Tests/KeyValueLine.cs
+  uploadId: 664938

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 87da72454208ea44885197ced670ef3a
+timeCreated: 1571213203
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268757
+  packageName: Best WebSockets
+  packageVersion: 3.0.5
+  assetPath: Packages/com.tivadar.best.websockets/Samples~/With UI/UI Helpers/TextListItem.prefab
+  uploadId: 672586

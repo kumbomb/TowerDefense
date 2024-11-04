@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5122103bbd1aade459bf940030cf1f33
+timeCreated: 1534435083
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/PhotoUsageDescription.asset
+  uploadId: 649729

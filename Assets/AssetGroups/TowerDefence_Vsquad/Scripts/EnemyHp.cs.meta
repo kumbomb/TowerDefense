@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b6d63bc97dbdbd4cbb197d5c4dacdfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152854
+  packageName: MEGA Towers Pack
+  packageVersion: 1.1
+  assetPath: Assets/TowerDefence_Vsquad/Scripts/EnemyHp.cs
+  uploadId: 339001

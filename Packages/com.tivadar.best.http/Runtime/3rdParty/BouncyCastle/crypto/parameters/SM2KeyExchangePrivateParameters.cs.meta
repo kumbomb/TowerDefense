@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 30a4431e7e54d384dac6a6295545b0a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/crypto/parameters/SM2KeyExchangePrivateParameters.cs
+  uploadId: 672585

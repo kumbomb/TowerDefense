@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b04c75e8ab0b1cf40b278ec37518d8dd
+timeCreated: 1547049317
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy A5.prefab
+  uploadId: 649729

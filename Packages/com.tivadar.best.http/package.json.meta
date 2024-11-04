@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d151bb0d52d83642a2703de438bf02b
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/package.json
+  uploadId: 672585

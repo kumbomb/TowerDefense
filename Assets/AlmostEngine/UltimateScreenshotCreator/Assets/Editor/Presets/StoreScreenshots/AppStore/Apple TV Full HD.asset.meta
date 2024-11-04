@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf57b453300e4e549b0d794c1480d404
+timeCreated: 1556840368
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Apple
+    TV Full HD.asset
+  uploadId: 649729

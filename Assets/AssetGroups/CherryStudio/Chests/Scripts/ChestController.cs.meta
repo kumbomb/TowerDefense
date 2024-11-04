@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bccff6166618b485aa0c09c6d3043f95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210898
+  packageName: Animated Low Poly Chest
+  packageVersion: 1.0
+  assetPath: Assets/CherryStudio/Chests/Scripts/ChestController.cs
+  uploadId: 480597

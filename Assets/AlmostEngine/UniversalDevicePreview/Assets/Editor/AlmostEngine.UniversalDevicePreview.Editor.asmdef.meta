@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce2b3845cdccddb499cdce699762dc67
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/AlmostEngine.UniversalDevicePreview.Editor.asmdef
+  uploadId: 649729

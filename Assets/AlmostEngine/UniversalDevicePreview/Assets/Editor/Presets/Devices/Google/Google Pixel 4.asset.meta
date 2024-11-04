@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f86ffbb2f0198424bbd5e4d104fb3c59
+timeCreated: 1546611542
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 4.asset
+  uploadId: 649729

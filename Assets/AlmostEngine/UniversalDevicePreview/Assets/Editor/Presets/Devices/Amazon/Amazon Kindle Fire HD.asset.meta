@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a50bfd9fb3f056c498a7ca79af693eaa
+timeCreated: 1545143557
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Amazon/Amazon
+    Kindle Fire HD.asset
+  uploadId: 649729

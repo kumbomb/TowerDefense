@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aab4369fdf2a1d04f8e02cd9cc1977d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/Profiler/Network/NetworkStats.cs
+  uploadId: 672585

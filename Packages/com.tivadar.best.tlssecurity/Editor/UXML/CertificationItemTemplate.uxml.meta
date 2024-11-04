@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a6005f1e9a2353a4db877c324ebfc42a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Editor/UXML/CertificationItemTemplate.uxml
+  uploadId: 664938

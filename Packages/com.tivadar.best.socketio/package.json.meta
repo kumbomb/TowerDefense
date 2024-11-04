@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62a98ff83b9be014d946fc97539d1ccb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/package.json
+  uploadId: 664927

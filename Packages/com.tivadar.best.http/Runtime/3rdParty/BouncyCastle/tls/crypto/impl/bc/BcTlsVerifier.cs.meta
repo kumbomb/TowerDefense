@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 56e0a640f551a734ca82598ca760c05d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/3rdParty/BouncyCastle/tls/crypto/impl/bc/BcTlsVerifier.cs
+  uploadId: 672585

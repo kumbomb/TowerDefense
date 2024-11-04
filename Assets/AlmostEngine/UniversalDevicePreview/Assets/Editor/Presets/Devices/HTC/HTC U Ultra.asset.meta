@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39116964f2744a741b9bc64f26f3dfb7
+timeCreated: 1545143561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    U Ultra.asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b8bd9b2c14d6054f8e3d16e066d193f
+timeCreated: 1545143560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Nexus 7 (2012).asset
+  uploadId: 649729

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc7aae4263f883a448fc3f235b6b41c6
+timeCreated: 1556840215
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/iPad
+    11 inch - iPad Pro.asset
+  uploadId: 649729

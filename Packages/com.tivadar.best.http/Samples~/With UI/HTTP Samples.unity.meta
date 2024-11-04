@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ed13563a809f06489c3e97e4da02176
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Samples~/With UI/HTTP Samples.unity
+  uploadId: 672585

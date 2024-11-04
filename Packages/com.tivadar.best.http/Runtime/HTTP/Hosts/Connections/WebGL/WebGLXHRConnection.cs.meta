@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 678df3294a2b9c64ba56e9dd095f08fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.10
+  assetPath: Packages/com.tivadar.best.http/Runtime/HTTP/Hosts/Connections/WebGL/WebGLXHRConnection.cs
+  uploadId: 672585

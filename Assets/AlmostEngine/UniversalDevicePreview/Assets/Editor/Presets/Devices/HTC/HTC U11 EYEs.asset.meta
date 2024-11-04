@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1005db1c60edf6c4bad86fd917502d80
+timeCreated: 1546611713
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/HTC/HTC
+    U11 EYEs.asset
+  uploadId: 649729

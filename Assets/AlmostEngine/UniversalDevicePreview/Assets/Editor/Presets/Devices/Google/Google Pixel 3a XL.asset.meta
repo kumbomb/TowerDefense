@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3b2152854d04074fb9b5f274a4536c6
+timeCreated: 1568621907
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 3a XL.asset
+  uploadId: 649729

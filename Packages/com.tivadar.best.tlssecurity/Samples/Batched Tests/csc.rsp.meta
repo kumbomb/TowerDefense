@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eae32e313e68f174088129be8736c239
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268761
+  packageName: Best TLS Security
+  packageVersion: 3.0.1
+  assetPath: Packages/com.tivadar.best.tlssecurity/Samples/Batched Tests/csc.rsp
+  uploadId: 664938

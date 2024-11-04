@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50d60845c6b6e2b4dae6d2456fe355c0
+timeCreated: 1575971454
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Xiaomi/Xiaomi
+    Redmi 4.asset
+  uploadId: 649729

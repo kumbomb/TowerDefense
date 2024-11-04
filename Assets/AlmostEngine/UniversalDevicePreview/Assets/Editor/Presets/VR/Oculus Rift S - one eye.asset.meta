@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90516dd32db3fb94c80550e6f716894f
+timeCreated: 1578046955
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/VR/Oculus
+    Rift S - one eye.asset
+  uploadId: 649729

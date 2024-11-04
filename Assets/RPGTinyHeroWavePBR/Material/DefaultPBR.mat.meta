@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f323cced30244554986ee5e9f5dd8b67
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228701
+  packageName: RPG Tiny Hero Wave PBR
+  packageVersion: 1.0
+  assetPath: Assets/RPGTinyHeroWavePBR/Material/DefaultPBR.mat
+  uploadId: 526056

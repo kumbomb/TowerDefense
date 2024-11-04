@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18c5f0bc1e6ea7f4c86b43ed196f9ee7
+timeCreated: 1546611547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel 4 XL.asset
+  uploadId: 649729

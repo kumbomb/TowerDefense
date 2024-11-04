@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 426f327c76c8b934c9f96cbb059c552b
+timeCreated: 1594475580
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Dependencies/UnityNativeShare/Plugins/NativeShare/Android/NSShareResultCallbackAndroid.cs
+  uploadId: 649729

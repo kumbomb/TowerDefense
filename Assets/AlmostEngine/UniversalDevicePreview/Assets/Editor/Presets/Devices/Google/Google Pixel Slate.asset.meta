@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7bc5602045204947ae3eddec1a8e9c9
+timeCreated: 1546611516
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Google/Google
+    Pixel Slate.asset
+  uploadId: 649729

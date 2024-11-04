@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58afd28cc7c3ecc489be21d9ed199676
+timeCreated: 1478968604
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/Shared/Examples/Materials/Blue.mat
+  uploadId: 649729

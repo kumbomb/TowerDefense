@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bb0c29f41ce6bc249b84aca704de9b00
+timeCreated: 1571155149
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Scripts/Platform/iosOnly.cs
+  uploadId: 649729

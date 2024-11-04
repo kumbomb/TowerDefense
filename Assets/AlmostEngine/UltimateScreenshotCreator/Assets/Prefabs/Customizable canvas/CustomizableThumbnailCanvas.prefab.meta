@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c1b486cf8283204a947357bbe392c7e
+timeCreated: 1545309990
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Customizable
+    canvas/CustomizableThumbnailCanvas.prefab
+  uploadId: 649729

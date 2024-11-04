@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca12724c3a7383747af21bae56c9ec0a
+timeCreated: 1545143559
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPad/Apple
+    iPad Mini 3.asset
+  uploadId: 649729

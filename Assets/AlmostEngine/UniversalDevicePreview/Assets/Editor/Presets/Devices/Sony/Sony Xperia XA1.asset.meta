@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a0f3ed1c5a5b75448497e6a0dcb4714
+timeCreated: 1545143569
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Sony/Sony
+    Xperia XA1.asset
+  uploadId: 649729

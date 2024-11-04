@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67fcd788d78d2414388a604bbbc827bc
+timeCreated: 1545151118
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Custom/MyCustomPreset.asset
+  uploadId: 649729

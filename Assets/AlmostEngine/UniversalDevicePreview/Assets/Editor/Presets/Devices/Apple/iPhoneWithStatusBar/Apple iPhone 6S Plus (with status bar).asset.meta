@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 963655e696dd8b948a303c8bef17c20f
+timeCreated: 1545143558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhoneWithStatusBar/Apple
+    iPhone 6S Plus (with status bar).asset
+  uploadId: 649729

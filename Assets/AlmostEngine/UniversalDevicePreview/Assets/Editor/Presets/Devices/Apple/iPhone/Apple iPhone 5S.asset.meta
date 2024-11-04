@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e441045660a8ff4fb7677a9692e89f2
+timeCreated: 1547040375
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone 5S.asset
+  uploadId: 649729

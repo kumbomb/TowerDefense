@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fbac5522dc8d7d54f89e0a7f18f027e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268759
+  packageName: Best Socket.IO
+  packageVersion: 3.0.2
+  assetPath: Packages/com.tivadar.best.socketio/Runtime/AssemblyInfo.cs
+  uploadId: 664927

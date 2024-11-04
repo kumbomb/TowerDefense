@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 830d17d0266a9264a92ff3f8c1844d3a
+timeCreated: 1568635406
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/Samsung
+    Galaxy S9.prefab
+  uploadId: 649729

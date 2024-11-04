@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 019921eb3e9274149b7b87d94771f333
+timeCreated: 1568640772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Prefabs/Devices/OnePlus
+    6.prefab
+  uploadId: 649729

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c0506a36a8e06ca4a982747fc590a6bc
+timeCreated: 1571068395
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Scripts/SafeAreaInspector.cs
+  uploadId: 649729

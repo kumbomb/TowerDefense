@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed20d0aeb8d054e4aae7575b13587fda
+timeCreated: 1534172669
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Customizable
+    canvas/CustomizableGreyboxCanvas.prefab
+  uploadId: 649729

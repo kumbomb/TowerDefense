@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e76235f9e84d6a409c0ff2d6201c29d
+timeCreated: 1546526067
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82015
+  packageName: Universal Device Preview
+  packageVersion: 1.11.5
+  assetPath: Assets/AlmostEngine/UniversalDevicePreview/Assets/Editor/Presets/Devices/Apple/iPhone/Apple
+    iPhone XR.asset
+  uploadId: 649729
