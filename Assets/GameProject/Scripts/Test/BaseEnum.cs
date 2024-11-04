@@ -2,10 +2,13 @@ using UnityEngine;
 
 namespace BaseEnum
 {
-    public static class BaseEnum
+    public enum SCENE_TYPE
     {
-
+        PRELOADER,
+        LOBBY,
+        GAME,
     }
+
     public enum TowerType
     {
         normal,

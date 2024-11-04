@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b02fe83975e0e194f8ccdc72eebfbec1
+guid: af94647d1c0662b4ebdd6a84489064cd
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 100100000
@@ -8,8 +8,8 @@ NativeFormatImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 152854
-  packageName: MEGA Towers Pack
-  packageVersion: 1.1
-  assetPath: Assets/TowerDefence_Vsquad/Prefabs/Cubes/GB_Sand_1.prefab
-  uploadId: 339001
+  productId: 151014
+  packageName: Desert Land
+  packageVersion: 1.0
+  assetPath: Assets/AssetGroups/TowerDefence_Vsquad/Prefabs/Cubes/GB_Sand_1.prefab
+  uploadId: 339379

@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/GameProject/Scene/PreLoader.unity
+    guid: 9f094ef4dfb31454db070f09a77dbcdd
+  - enabled: 1
+    path: Assets/GameProject/Scene/LobbyScene.unity
+    guid: 4fd072a0ef41ef249a88b53916a0ae59
+  - enabled: 1
     path: Assets/GameProject/Scene/GameScene.unity
     guid: b2fb08b8857ff074a87d28064c8bdab8
   m_configObjects:

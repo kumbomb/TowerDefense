@@ -18,7 +18,7 @@ public class TowerHP : MonoBehaviour {
         if (CastleHp <= 0)
         {
             gameObject.tag = "Castle_Destroyed"; // send it to TowerTrigger to stop the shooting
-            Destroy(gameObject);
+            
 
         }
     }

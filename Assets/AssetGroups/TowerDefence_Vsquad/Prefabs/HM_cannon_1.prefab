@@ -103,6 +103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4509344712265162}
   - component: {fileID: 114231757648547274}
+  - component: {fileID: 65226378942130296}
   m_Layer: 0
   m_Name: HM_cannon_1
   m_TagString: Untagged
@@ -118,9 +119,9 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4357480739158462}
-  - component: {fileID: 135113919884927960}
   - component: {fileID: 114895559651032558}
   - component: {fileID: 54235996718449042}
+  - component: {fileID: 136174928833267862}
   m_Layer: 0
   m_Name: Tower_Bug 2
   m_TagString: Castle
@@ -164,8 +165,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1843997847651148}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 1.491, z: 0}
-  m_LocalScale: {x: 0.02, y: 0.02, z: 0.02}
+  m_LocalPosition: {x: 0, y: 0.829, z: 0}
+  m_LocalScale: {x: 0.82630056, y: 2.366571, z: 0.82630056}
   m_Children: []
   m_Father: {fileID: 4509344712265162}
   m_RootOrder: 1
@@ -191,7 +192,7 @@ Transform:
   m_GameObject: {fileID: 1453441676718890}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.218995, y: 1.2189955, z: 1.2189955}
+  m_LocalScale: {x: 2.3488228, y: 2.3488238, z: 2.3488238}
   m_Children: []
   m_Father: {fileID: 4458445124252350}
   m_RootOrder: 3
@@ -219,15 +220,15 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1674050128692650}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0.29326415, y: -1.1583836, z: -2.5020275}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4458445124252350}
   - {fileID: 4357480739158462}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!4 &4574405651562524
 Transform:
   m_ObjectHideFlags: 1
@@ -395,6 +396,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &65226378942130296
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674050128692650}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &114217725907745512
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -425,7 +438,9 @@ MonoBehaviour:
   Towerbug: {fileID: 1843997847651148}
   LookAtObj: {fileID: 4165866241402844}
   bullet: {fileID: 1240887441953726, guid: 8a976dcd328a4664c85144f33b9c46b0, type: 2}
-  DestroyParticle: {fileID: 1842692474500718, guid: faa216e7fb0fe8045ab064f8955a35d0,
+  ShootFX_size: 0
+  ShootFX: []
+  DestroyParticle: {fileID: 1842692474500718, guid: ee3b2e55932f8bd47b5507f5fb1b67d8,
     type: 2}
   impactNormal_2: {x: 0, y: 0, z: 0}
   target: {fileID: 0}
@@ -445,18 +460,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CastleHp: 30
---- !u!135 &135113919884927960
-SphereCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1843997847651148}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 4
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!135 &135998450749102454
 SphereCollider:
   m_ObjectHideFlags: 1
@@ -468,4 +471,17 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 4
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!136 &136174928833267862
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843997847651148}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 1
+  m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}

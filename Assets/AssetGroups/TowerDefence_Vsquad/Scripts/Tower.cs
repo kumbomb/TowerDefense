@@ -9,6 +9,8 @@ public class Tower : MonoBehaviour {
     public GameObject Towerbug;
     public Transform LookAtObj;    
     public GameObject bullet;
+    public int ShootFX_size;
+    public ParticleSystem[] ShootFX;
     public GameObject DestroyParticle;
     public Vector3 impactNormal_2;
     public Transform target;
@@ -26,6 +28,7 @@ public class Tower : MonoBehaviour {
         anim_2 = GetComponent<Animator>();
         homeY = LookAtObj.transform.localRotation.eulerAngles.y;
         TowerHp = Towerbug.GetComponent<TowerHP>();
+        
     }
            
 
@@ -56,6 +59,7 @@ public class Tower : MonoBehaviour {
                 dir.y = 0; 
                 Quaternion rot = Quaternion.LookRotation(dir);                
                 LookAtObj.transform.rotation = Quaternion.Slerp( LookAtObj.transform.rotation, rot, 5 * Time.deltaTime);
+            
 
         }
       
@@ -64,7 +68,16 @@ public class Tower : MonoBehaviour {
             
             Quaternion home = new Quaternion (0, homeY, 0, 1);
             
-            LookAtObj.transform.rotation = Quaternion.Slerp(LookAtObj.transform.rotation, home, Time.deltaTime);                        
+            LookAtObj.transform.rotation = Quaternion.Slerp(LookAtObj.transform.rotation, home, Time.deltaTime);
+
+            // ShootFX
+
+            for (int i = 0; i < ShootFX_size; i++)
+            {
+                ShootFX[i].Stop();
+            }
+
+
         }
 
 
@@ -74,6 +87,8 @@ public class Tower : MonoBehaviour {
             if (!isShoot)
             {
                 StartCoroutine(shoot());
+
+
 
             }
 
@@ -112,7 +127,15 @@ public class Tower : MonoBehaviour {
             GameObject b = GameObject.Instantiate(bullet, shootElement.position, Quaternion.identity) as GameObject;
             b.GetComponent<TowerBullet>().target = target;
             b.GetComponent<TowerBullet>().twr = this;
-          
+
+            // ShootFX
+            for (int i = 0; i < ShootFX_size; i++)
+            {
+                ShootFX[i].Play();
+            }
+            
+            
+
         }
 
         if (target && Catcher == true)
@@ -123,7 +146,8 @@ public class Tower : MonoBehaviour {
 
 
         isShoot = false;
-	}
+        
+    }
 
 
 

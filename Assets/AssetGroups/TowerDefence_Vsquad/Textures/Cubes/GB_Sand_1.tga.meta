@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a5f2b1b7687b70544a860b40f93bfdc3
+guid: c43d4957fb662e94d8ea6975b2c377ba
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -84,8 +84,8 @@ TextureImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 152854
-  packageName: MEGA Towers Pack
-  packageVersion: 1.1
-  assetPath: Assets/TowerDefence_Vsquad/Textures/Cubes/GB_Sand_1.tga
-  uploadId: 339001
+  productId: 151014
+  packageName: Desert Land
+  packageVersion: 1.0
+  assetPath: Assets/AssetGroups/TowerDefence_Vsquad/Textures/Cubes/GB_Sand_1.tga
+  uploadId: 339379

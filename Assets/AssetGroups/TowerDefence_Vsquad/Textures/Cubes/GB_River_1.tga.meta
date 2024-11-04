@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: df78f57f27a52c542be709b940550c67
+guid: 2ae3fb5a7c98439459de0825a7fc5a7b
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -84,8 +84,8 @@ TextureImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 152854
-  packageName: MEGA Towers Pack
-  packageVersion: 1.1
-  assetPath: Assets/TowerDefence_Vsquad/Textures/Cubes/GB_River_1.tga
-  uploadId: 339001
+  productId: 151014
+  packageName: Desert Land
+  packageVersion: 1.0
+  assetPath: Assets/AssetGroups/TowerDefence_Vsquad/Textures/Cubes/GB_River_1.tga
+  uploadId: 339379

@@ -30,9 +30,11 @@ public class Enemy : MonoBehaviour {
     void OnTriggerEnter(Collider other)
 
     {
-        if (other.tag == "Castle")
+        if ((other.tag == "Castle") || (other.tag == "Tank"))
         {
+
             
+
             Speed = 0;
             EnemyTarget = other.gameObject;
             target = other.gameObject.transform;
@@ -57,15 +59,23 @@ public class Enemy : MonoBehaviour {
 
     }
 
-    
 
-    void GetDamage ()
 
-    {        
-            EnemyTarget.GetComponent<TowerHP>().Dmg_2(Creature_Damage);       
+    void GetDamage()
+
+    {
+        if (EnemyTarget.CompareTag("Castle")) // get it from BuildingHp
+
+        {            
+                EnemyTarget.GetComponent<TowerHP>().Dmg_2(Creature_Damage);            
+        }
+
+        if (EnemyTarget.CompareTag("Tank")) // get it from BuildingHp
+
+        {
+            EnemyTarget.GetComponent<TowerHP>().Dmg_2(Creature_Damage);
+        }
     }
-
-    
 
 
     void Update () 
