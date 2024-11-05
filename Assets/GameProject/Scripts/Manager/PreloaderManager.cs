@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System.Threading.Tasks;
 using Cysharp.Threading.Tasks;
 using UnityEngine.SceneManagement;
 using BaseEnum;
@@ -14,6 +13,7 @@ public class PreloaderManager : MonoBehaviour
 
     Button btnStart;
     LoadingUI loadingUI;
+
 
     private void Start()
     {
@@ -87,9 +87,15 @@ public class PreloaderManager : MonoBehaviour
 
     private async UniTask LoadCSV()
     {
-        // 실제 CSV 로딩 로직을 여기에 구현하세요
-        // 예시로 딜레이를 사용합니다.
-        await UniTask.Delay(2000);
+        if (CSVManager.Instance != null)
+        {
+            CSVManager.Instance.InitCSV();
+            await UniTask.CompletedTask;
+        }
+        else
+        {
+            Debug.LogError("CSVManager가 씬에 존재하지 않습니다.");
+        }
     }
 
     private async UniTask LoadUserData()
