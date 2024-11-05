@@ -299,7 +299,7 @@ MonoBehaviour:
   m_text: Dungeon & Defense
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 21c65f7602f952f41b220991c8ab2d21, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: dce06a5b3ef2b9b4488b1d96f88f9ac2, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 2ea4ff8d76cfe0f4c96e872f13f6fe8a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
