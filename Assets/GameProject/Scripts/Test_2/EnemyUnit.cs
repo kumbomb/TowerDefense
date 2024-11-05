@@ -70,7 +70,7 @@ public class EnemyUnit : BaseUnit, IAttackable
             Vector3 direction = (targetPosition - transform.position).normalized;
 
             //anim.SetBool("Run", true); // 애니메이션 상태 변경
-            anim.SetTrigger("Run");
+            //anim.SetTrigger("Run");
 
             while (Vector3.Distance(transform.position, targetPosition) > 0.1f)
             {

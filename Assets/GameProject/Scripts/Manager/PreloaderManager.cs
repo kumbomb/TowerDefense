@@ -9,8 +9,7 @@ public class PreloaderManager : MonoBehaviour
     [SerializeField] GameObject startBtn;
     [SerializeField] GameObject startText;
 
-    [SerializeField] GameObject LoadingGroup; // ·Îµù¹Ù °ü·ÃµÈ°Ç µû·Î ±×ÂÊÀ¸·Î »©µµ·Ï ÇÏ°í
-
+    [SerializeField] GameObject LoadingGroup; 
     Button btnStart;
     LoadingUI loadingUI;
 
@@ -35,7 +34,6 @@ public class PreloaderManager : MonoBehaviour
         btnStart.onClick.AddListener(StartLoadProcess);
     }
 
-    // ¿©±â¿¡¼­ csv ÀĞ°í µ¥ÀÌÅÍ ¼¼ÆÃÇÒ°Å ÇÏ¸é¼­ %¸¦ ÁøÇà ½ÃÅ²´Ù.
     void StartLoadProcess()
     {
         startText.SetActive(false);
@@ -51,37 +49,38 @@ public class PreloaderManager : MonoBehaviour
 
         try
         {
-            // 1. CSV ·Îµù
-            loadingUI.UpdateDescription("CSV ÆÄÀÏ ·Îµù Áß...");
             await LoadCSV();
-            totalProgress += 33.3f;
+            totalProgress += 25f;
             loadingUI.SetTargetProgress(totalProgress);
+            loadingUI.UpdateDescription("CSV ë¡œë”© ì¤‘...");
 
-            // 2. À¯Àú µ¥ÀÌÅÍ ·Îµù
-            loadingUI.UpdateDescription("À¯Àú µ¥ÀÌÅÍ ·Îµù Áß...");
             await LoadUserData();
-            totalProgress += 33.3f;
+            totalProgress += 25f;
             loadingUI.SetTargetProgress(totalProgress);
+            loadingUI.UpdateDescription("ìœ ì € ë°ì´í„° ë¡œë”© ì¤‘...");
 
-            // 3. ¿ÀºêÁ§Æ® Ç®¸µ ÃÊ±âÈ­
-            loadingUI.UpdateDescription("¿ÀºêÁ§Æ® Ç®¸µ ÃÊ±âÈ­ Áß...");
             await InitializeObjectPooling();
-            totalProgress += 33.4f;
+            totalProgress += 25f;
             loadingUI.SetTargetProgress(totalProgress);
+            loadingUI.UpdateDescription("ì˜¤ë¸Œì íŠ¸ í’€ë§ ì§„í–‰ ì¤‘...");
 
-            // ·Îµù ¿Ï·á   
+            await LoadLevelData();
+            totalProgress += 25f;
+            loadingUI.SetTargetProgress(totalProgress);
+            loadingUI.UpdateDescription("ì”¬ ë°ì´í„° ë¡œë”© ì¤‘...");
+
             loadingUI.SetTargetProgress(100f);
-            loadingUI.UpdateDescription("·Îµù ¿Ï·á!");
+            loadingUI.UpdateDescription("ë°ì´í„° ì •ë¦¬ ì¤‘...");
 
-            // Àá½Ã ´ë±â ÈÄ ·Îºñ·Î ÀüÈ¯
             await UniTask.Delay(1000);
+            loadingUI.UpdateDescription("ë¡œë”© ì™„ë£Œ!");
+
             await SceneManager.LoadSceneAsync((int)SCENE_TYPE.LOBBY);
+            //await SceneLoader.Instance.LoadScene(SCENE_TYPE.LOBBY.ToString());
         }
         catch /*(System.Exception ex)*/
         {
-            // Debug.LogError($"·Îµù Áß ¿À·ù ¹ß»ı: {ex.Message}");
-            Debug.LogError("·Îµù Áß ¿À·ù ¹ß»ı");
-            // ¿¡·¯ Ã³¸® ·ÎÁ÷ Ãß°¡ (¿¹: ¿¡·¯ ¸Ş½ÃÁö Ç¥½Ã)
+            Debug.LogError("ë¡œë”©ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤");
         }
     }
 
@@ -94,21 +93,24 @@ public class PreloaderManager : MonoBehaviour
         }
         else
         {
-            Debug.LogError("CSVManager°¡ ¾À¿¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.");
+            Debug.LogError("CSVManagerê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤");
         }
     }
 
     private async UniTask LoadUserData()
     {
-        // ½ÇÁ¦ À¯Àú µ¥ÀÌÅÍ ·Îµù ·ÎÁ÷À» ¿©±â¿¡ ±¸ÇöÇÏ¼¼¿ä
-        // ¿¹½Ã·Î µô·¹ÀÌ¸¦ »ç¿ëÇÕ´Ï´Ù.
         await UniTask.Delay(2000);
+    }
+
+    private async UniTask LoadLevelData(){
+        if(LevelManager.Instance != null)
+        {
+            LevelManager.Instance.InitLevelManager();
+        }
     }
 
     private async UniTask InitializeObjectPooling()
     {
-        // ½ÇÁ¦ ¿ÀºêÁ§Æ® Ç®¸µ ÃÊ±âÈ­ ·ÎÁ÷À» ¿©±â¿¡ ±¸ÇöÇÏ¼¼¿ä
-        // ¿¹½Ã·Î µô·¹ÀÌ¸¦ »ç¿ëÇÕ´Ï´Ù.
         await UniTask.Delay(2000);
     }
 }

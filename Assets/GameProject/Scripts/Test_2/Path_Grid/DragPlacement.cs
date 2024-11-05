@@ -17,23 +17,9 @@ public class DragPlacement : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     private List<GameObject> currentOverlays = new List<GameObject>(); // 현재 임시 오버레이 리스트
 
     private PlaceableObj placeableObject;   // 배치할 오브젝트의 정보
-    private GameObject previewCell;
     private Vector2Int objectSizeInCells;
 
     public LayerMask groundLayer; // Inspector에서 Ground 레이어를 할당
-
-    void Start()
-    {
-        gridManager = GridManager.Instance;
-        if (gridManager == null)
-        {
-            Debug.LogError("GridManager.Instance가 null입니다. GridManager가 씬에 존재하는지 확인하세요.");
-        }
-        if (gridOverlayPrefab == null)
-        {
-            Debug.LogError("GridOverlayPrefab이 할당되지 않았습니다.");
-        }
-    }
 
     public void OnBeginDrag(PointerEventData eventData)
     {
@@ -43,6 +29,10 @@ public class DragPlacement : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
             return;
         }
 
+        if(gridManager == null)
+        {
+            gridManager = GridManager.Instance;
+        }
         // Instantiate the dragging object
         draggingObject = Instantiate(objectPrefab);
         placeableObject = draggingObject.GetComponent<PlaceableObj>();
@@ -64,7 +54,7 @@ public class DragPlacement : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
         }
 
 
-        previewCell = Instantiate(placeableObject.previewCell);
+        //previewCell = Instantiate(placeableObject.previewCell);
 
         // 오브젝트의 실제 크기를 기반으로 셀 단위 크기를 계산
         objectSizeInCells = new Vector2Int(
@@ -286,6 +276,8 @@ public class DragPlacement : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
                 Mathf.FloorToInt((objPosition.z - gridManager.gridOrigin.z) / gridManager.cellSize)
             );
              
+            Debug.Log($"gridManager : {gridManager.gridOrigin}");
+            Debug.Log($"obj : {objPosition} / grid : {gridPosition}");
             bool overallCanPlace = canPlace && !isOutOfGrid;
 
             for (int i = 0; i < objectSizeInCells.x; i++)

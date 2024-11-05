@@ -102,6 +102,8 @@ namespace BaseStruct
         public RewardStruct[] rewardStructs;    // csv 에서 '|' 를 기준으로 split한뒤 각 배열을 다시 '/' 로 split 해서 RewardStruct 생성 
         public string StageImgName;
         public int NeedStamina;
+        public string SceneName;
+        public string LevelPrefabName;
     }
 
     // 웨이브 데이터

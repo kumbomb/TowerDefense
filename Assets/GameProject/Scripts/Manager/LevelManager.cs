@@ -1,7 +1,53 @@
+using BaseEnum;
+using BaseStruct;
 using UnityEngine;
-
-// ÇØ´ç ¸Å´ÏÀú¿¡¼­ ·¹º§ Ç¥Çö¿¡ ÇÊ¿äÇÑ ÇÁ¸®ÆÕ ¹× ·¹º§ ÁøÇà¿¡ ÇÊ¿äÇÑ µ¥ÀÌÅÍ¸¦ µé°í ÀÖÀ» ¼ö ÀÖµµ·Ï ÇÑ´Ù.
+using UnityEngine.SceneManagement;
 public class LevelManager : Singleton<LevelManager>
 {
+    //ì—¬ê¸°ì—ì„œ í…ŒìŠ¤íŠ¸ë¡œ ì½ì–´ì˜¨ë‹¤
+    [SerializeField] GameObject Level_1_Prefab;
 
+    bool isInit = false;
+    StageData curStageData;
+
+    public void InitLevelManager(){
+        if(isInit) return;
+        isInit = true;
+    }
+    
+    //ì½ì–´ì˜¤ëŠ” ë°ì´í„°ë¡œ ì½ì–´ì˜¬ ì”¬ì„ ê²°ì •í•œë‹¤.
+    public void GetLevelData(){
+        var stageDatas = CSVManager.Instance.GetDataList<StageData>(TABLE_TYPE.TABLE_STAGE);
+        curStageData = stageDatas.Find(t => t.Id == 1);
+        if (curStageData == null)
+        {
+            Debug.Log("No Found Correct Stage Data");
+            return;
+        }
+        else
+        {
+            string stageSceneName = curStageData.SceneName;
+            Debug.Log("SceneName : " + stageSceneName);
+            // SceneLoaderë¥¼ í†µí•´ ì”¬ ë¡œë“œ
+            SceneLoader.Instance.LoadScene(stageSceneName, LoadSceneMode.Additive, OnStageSceneLoaded);
+        }
+    }
+
+    void OnStageSceneLoaded()
+    {
+        Scene stageScene = SceneManager.GetSceneByName(curStageData.SceneName);
+
+        if (stageScene.IsValid())
+        {
+            // í•„ìš”í•œ ê²½ìš° Game ì”¬ì„ ì•¡í‹°ë¸Œ ì”¬ìœ¼ë¡œ ì„¤ì •
+            //SceneManager.SetActiveScene(SceneManager.GetSceneByName("Game"));
+            GameObject levelObj = Instantiate(Level_1_Prefab);           
+            // ì¶”ê°€ ì´ˆê¸°í™” ì‘ì—…
+            Debug.Log($"Stage scene '{curStageData.SceneName}' loaded successfully.");
+        }
+        else
+        {
+            Debug.LogError($"Failed to load stage scene '{curStageData.SceneName}'.");
+        }
+    }
 }

@@ -190,7 +190,8 @@ public class GridEditorWindow : EditorWindow
 
     private void DrawGrid(Rect gridRect)
     {
-        if (gridCells == null)
+        if (gridCells == null ||
+        gridCells.Length == 0)
             return;
 
         // 그리드 그리기
