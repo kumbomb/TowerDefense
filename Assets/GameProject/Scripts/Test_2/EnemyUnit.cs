@@ -92,7 +92,7 @@ public class EnemyUnit : BaseUnit, IAttackable
             }
 
             //anim.SetBool("Run", false); // 애니메이션 상태 변경
-            anim.SetTrigger("Run");
+            //anim.SetTrigger("Run");
 
             if (!isAttacking)
             {

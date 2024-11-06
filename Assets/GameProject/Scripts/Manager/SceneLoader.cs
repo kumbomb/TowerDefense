@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : Singleton<SceneLoader>
 {
-
+    protected override bool IsPersistent => false;
     // 단일 씬 로드 메서드 추가
     public void LoadScene(string sceneName, LoadSceneMode mode = LoadSceneMode.Single, System.Action onLoaded = null)
     {

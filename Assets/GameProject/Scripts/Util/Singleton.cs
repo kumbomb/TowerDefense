@@ -9,10 +9,12 @@ public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
     public static T TryGetInstance() => HasInstance ? _instance : null;
     public static T Current => _instance;
 
+    // DontDestroyOnLoad 적용 여부를 결정하는 플래그
+    protected virtual bool IsPersistent => false;
+
     /// <summary>
     /// 싱글톤 디자인 패턴
     /// </summary>
-    /// <value>인스턴스</value>
     public static T Instance
     {
         get
@@ -24,12 +26,10 @@ public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
 
                 if (_instance == null)
                 {
+                    Debug.Log("Instance Check");
                     GameObject obj = new GameObject();
                     obj.name = typeof(T).Name + "_AutoCreated";
                     _instance = obj.AddComponent<T>();
-
-                    // 씬 전환 시 파괴되지 않도록 설정
-                    DontDestroyOnLoad(obj);
                 }
             }
             return _instance;
@@ -43,13 +43,12 @@ public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
     {
         InitializeSingleton();
     }
-
+    
     /// <summary>
     /// 싱글톤을 초기화합니다.
     /// </summary>
     protected virtual void InitializeSingleton()
     {
-        // 게임이 실행 중이 아니라면 종료합니다.
         if (!Application.isPlaying)
         {
             return;
@@ -58,8 +57,12 @@ public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
         if (_instance == null)
         {
             _instance = this as T;
-            // 씬 전환 시 파괴되지 않도록 설정
-            DontDestroyOnLoad(this.gameObject);
+
+            // IsPersistent가 true일 때만 DontDestroyOnLoad 적용
+            if (IsPersistent)
+            {
+                DontDestroyOnLoad(this.gameObject);
+            }
         }
         else if (_instance != this)
         {

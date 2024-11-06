@@ -45,6 +45,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Popup
+    uniqueID: 1411180161
+    locked: 0
+  - name: Message
+    uniqueID: 189722801
+    locked: 0
   m_RenderingLayers:
   - Default
   - Light Layer 1

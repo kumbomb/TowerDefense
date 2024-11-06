@@ -276,8 +276,8 @@ public class DragPlacement : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
                 Mathf.FloorToInt((objPosition.z - gridManager.gridOrigin.z) / gridManager.cellSize)
             );
              
-            Debug.Log($"gridManager : {gridManager.gridOrigin}");
-            Debug.Log($"obj : {objPosition} / grid : {gridPosition}");
+            //Debug.Log($"gridManager : {gridManager.gridOrigin}");
+            //Debug.Log($"obj : {objPosition} / grid : {gridPosition}");
             bool overallCanPlace = canPlace && !isOutOfGrid;
 
             for (int i = 0; i < objectSizeInCells.x; i++)

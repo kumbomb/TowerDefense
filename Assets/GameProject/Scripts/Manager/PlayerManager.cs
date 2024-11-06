@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class PlayerManager : Singleton<PlayerManager>
 {
-    [SerializeField] private GameObject playerPrefab; // Player ������
-    [SerializeField] private PlayerJoyStickMove joystick; // ���̽�ƽ ����
+    [SerializeField] private GameObject playerPrefab;
+    [SerializeField] private PlayerJoyStickMove joystick;
 
     bool isInit = false;
 
@@ -35,8 +35,7 @@ public class PlayerManager : Singleton<PlayerManager>
         if (!isInit)
         {
             isInit = true;
-            GridManager gridManager = GridManager.Instance;
-            CreatePlayer(gridManager.GetPlayerSpawnCell().position, Quaternion.identity);
+            CreatePlayer(GridManager.Instance.GetPlayerSpawnCell().position, Quaternion.identity);
         }
         else
         {

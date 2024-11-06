@@ -11,14 +11,15 @@ public class CSVManager : Singleton<CSVManager>
     [Header("[ == CSV Scriptable Object == ]")]
     [SerializeField] TableDataObj csvDataList;
 
-    bool isInit = false;
-
     #region 데이터
     // 각 데이터 타입별로 파서와 데이터를 보관하는 딕셔너리
     [SerializeField]private Dictionary<TABLE_TYPE, CSVParserBase> parserDictionary = new Dictionary<TABLE_TYPE, CSVParserBase>();
     [SerializeField] private Dictionary<TABLE_TYPE, object> dataDictionary = new Dictionary<TABLE_TYPE, object>();
     #endregion
 
+    bool isInit = false;
+    protected override bool IsPersistent => false;
+    
     public async UniTask InitCSV()
     {
         if (isInit) return;
