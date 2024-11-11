@@ -76,7 +76,6 @@ public class PreloaderManager : MonoBehaviour
             loadingUI.UpdateDescription("로딩 완료!");
 
             await SceneManager.LoadSceneAsync((int)SCENE_TYPE.LOBBY);
-            //await SceneLoader.Instance.LoadScene(SCENE_TYPE.LOBBY.ToString());
         }
         catch /*(System.Exception ex)*/
         {
@@ -86,16 +85,9 @@ public class PreloaderManager : MonoBehaviour
 
     private async UniTask LoadCSV()
     {
-        if (CSVManager.Instance != null)
-        {
-            CSVManager.Instance.InitCSV();
-            await UniTask.CompletedTask;
-        }
-        else
-        {
-            Debug.LogError("CSVManager가 존재하지 않습니다");
-        }
+        await GoogleSheetManager.Instance.FetchGoogleSheet();
     }
+
 
     private async UniTask LoadUserData()
     {

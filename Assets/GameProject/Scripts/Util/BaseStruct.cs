@@ -81,62 +81,7 @@ namespace BaseStruct
     #endregion
 
     #region CSV 데이터 구조 형태 
-
-    // 챕터 데이터
-    [System.Serializable]
-    public class ChapterData
-    {
-        public int Id;
-        public string ChapterTitle;
-        public int[] StageIdxs;                 // csv에서 '/'를 기준으로 split한뒤 int로 변환하여 배열로 만든다
-        public string ChapterImgName;
-    }
-
-    // 스테이지 데이터
-    [System.Serializable]
-    public class StageData
-    {
-        public int Id;
-        public string StageName;
-        public int WaveIdx;
-        public RewardStruct[] rewardStructs;    // csv 에서 '|' 를 기준으로 split한뒤 각 배열을 다시 '/' 로 split 해서 RewardStruct 생성 
-        public string StageImgName;
-        public int NeedStamina;
-        public string SceneName;
-        public string LevelPrefabName;
-    }
-
-    // 웨이브 데이터
-    [System.Serializable]
-    public class WaveData
-    {
-        public int Id;
-        public int WaveIdx;
-        public int WaveType;
-        public int[] MonsterIdxs;           // csv에서 '/'를 기준으로 split 해서 int 변환 후 배열 생성
-        public float WaveTime;
-        public int SummonCnt;
-        public int MaxCount;
-        public float MultiplyHp;
-        public float MultiplySpeed;
-        public float MultiplyAtsp;
-    }
-
-    // 몬스터 데이터
-    [System.Serializable]
-    public class MonsterData
-    {
-        public int Id;                  // 몬스터 ID
-        public string Name;             // 몬스터 이름
-        public string PrefabName;       // 몬스터 프리팹 이름
-        public int IsBoss;              // MONSTER_TYPE;
-        public int HP;
-        public float Speed;             // 기본값이 되는 스피드 -> wave에 따라 값이 증감됨
-        public int Atk;
-        public int DropExp;             // 획득 경험치량
-        public float DropBeads;         // 경험치 구슬 드랍 확률 max = 100
-    }
-
+    
     // 테이블에서 읽어올 타워의 기본 데이터 
     [System.Serializable]
     public class TowerCSVData

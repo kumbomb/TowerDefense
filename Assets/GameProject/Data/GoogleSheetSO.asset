@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 123fb84016ff8cf4cbf7673abe6240ed, type: 3}
+  m_Name: GoogleSheetSO
+  m_EditorClassIdentifier: 
+  ChapterDataList:
+  - Id: 1
+    ChapterTitle: "\uC232"
+    ArrStageIdxs: 1/2/3
+    ChapterImgName: Chapter_Title_Img_1
+  - Id: 2
+    ChapterTitle: "\uC232 \uAE4A\uC740 \uACF3"
+    ArrStageIdxs: 4/5/6
+    ChapterImgName: Chapter_Title_Img_2
+  - Id: 3
+    ChapterTitle: "\uC232 \uACE8\uC9DC\uAE30"
+    ArrStageIdxs: 7/8/9
+    ChapterImgName: Chapter_Title_Img_3
+  StageDataList:
+  - Id: 1
+    StageName: "\uC232 1-1"
+    WaveIdx: 101
+    ArrStageReward: 0/100/1/100
+    StageImgName: Stage_Title_Img_1
+    NeedStamina: 5
+  - Id: 2
+    StageName: "\uC232 1-2"
+    WaveIdx: 102
+    ArrStageReward: 0/100/1/101
+    StageImgName: Stage_Title_Img_2
+    NeedStamina: 5
+  - Id: 3
+    StageName: "\uC232 1-3"
+    WaveIdx: 103
+    ArrStageReward: 0/100/1/102
+    StageImgName: Stage_Title_Img_3
+    NeedStamina: 5
+  - Id: 4
+    StageName: "\uC232 \uAE4A\uC740 \uACF3 1-1"
+    WaveIdx: 104
+    ArrStageReward: 0/100/1/103
+    StageImgName: Stage_Title_Img_4
+    NeedStamina: 5
+  - Id: 5
+    StageName: "\uC232 \uAE4A\uC740 \uACF3 1-2"
+    WaveIdx: 105
+    ArrStageReward: 0/100/1/104
+    StageImgName: Stage_Title_Img_5
+    NeedStamina: 5
+  - Id: 6
+    StageName: "\uC232 \uAE4A\uC740 \uACF3 1-3"
+    WaveIdx: 106
+    ArrStageReward: 0/100/1/105
+    StageImgName: Stage_Title_Img_6
+    NeedStamina: 5
+  - Id: 7
+    StageName: "\uC232 \uACE8\uC9DC\uAE30 1-1"
+    WaveIdx: 101
+    ArrStageReward: 0/100/1/106
+    StageImgName: Stage_Title_Img_7
+    NeedStamina: 5
+  - Id: 8
+    StageName: "\uC232 \uACE8\uC9DC\uAE30 1-2"
+    WaveIdx: 102
+    ArrStageReward: 0/100/1/107
+    StageImgName: Stage_Title_Img_8
+    NeedStamina: 5
+  - Id: 9
+    StageName: "\uC232 \uACE8\uC9DC\uAE30 1-3"
+    WaveIdx: 103
+    ArrStageReward: 0/100/1/108
+    StageImgName: Stage_Title_Img_9
+    NeedStamina: 5
+  WaveDataList:
+  - Id: 1
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1
+    MultiplySpeed: 1
+    MultiplyAtsp: 1
+  - Id: 2
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1
+    MultiplySpeed: 1
+    MultiplyAtsp: 1
+  - Id: 3
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.1
+    MultiplySpeed: 1.1
+    MultiplyAtsp: 1
+  - Id: 4
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.1
+    MultiplySpeed: 1.1
+    MultiplyAtsp: 1
+  - Id: 5
+    WaveIdx: 101
+    WaveType: 1
+    ArrMonsterIdxs: 2101
+    WaveTime: 20
+    SummonCnt: 1
+    MaxCount: 1
+    MulitplyHp: 1.15
+    MultiplySpeed: 1.15
+    MultiplyAtsp: 1
+  - Id: 6
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.15
+    MultiplySpeed: 1.15
+    MultiplyAtsp: 1
+  - Id: 7
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.15
+    MultiplySpeed: 1.15
+    MultiplyAtsp: 1
+  - Id: 8
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.15
+    MultiplySpeed: 1.15
+    MultiplyAtsp: 1
+  - Id: 9
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.15
+    MultiplySpeed: 1.15
+    MultiplyAtsp: 1
+  - Id: 10
+    WaveIdx: 101
+    WaveType: 1
+    ArrMonsterIdxs: 2102
+    WaveTime: 20
+    SummonCnt: 1
+    MaxCount: 1
+    MulitplyHp: 1.15
+    MultiplySpeed: 1.15
+    MultiplyAtsp: 1
+  - Id: 11
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.2
+    MultiplySpeed: 1.2
+    MultiplyAtsp: 1
+  - Id: 12
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.2
+    MultiplySpeed: 1.2
+    MultiplyAtsp: 1
+  - Id: 13
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.2
+    MultiplySpeed: 1.2
+    MultiplyAtsp: 1
+  - Id: 14
+    WaveIdx: 101
+    WaveType: 0
+    ArrMonsterIdxs: 1001/1002
+    WaveTime: 20
+    SummonCnt: 3
+    MaxCount: 21
+    MulitplyHp: 1.2
+    MultiplySpeed: 1.2
+    MultiplyAtsp: 1
+  - Id: 15
+    WaveIdx: 101
+    WaveType: 2
+    ArrMonsterIdxs: 2103
+    WaveTime: -1
+    SummonCnt: 1
+    MaxCount: 1
+    MulitplyHp: 1.2
+    MultiplySpeed: 1.2
+    MultiplyAtsp: 1
+  MonsterDataList:
+  - Id: 1001
+    Name: "\uC77C\uBC18 \uBAAC\uC2A4\uD130 1"
+    PrefabName: Monster_1
+    IsBoss: 0
+    HP: 10
+    Speed: 1.1
+    Atk: 10
+    DropExp: 20
+    DropBeads: 0.1
+  - Id: 1002
+    Name: "\uC77C\uBC18 \uBAAC\uC2A4\uD130 2"
+    PrefabName: Monster_2
+    IsBoss: 0
+    HP: 10
+    Speed: 1.1
+    Atk: 10
+    DropExp: 20
+    DropBeads: 0.1
+  - Id: 2101
+    Name: "\uC5D8\uB9AC\uD2B8 \uBAAC\uC2A4\uD130 1"
+    PrefabName: Monster_3
+    IsBoss: 1
+    HP: 100
+    Speed: 1.2
+    Atk: 20
+    DropExp: 100
+    DropBeads: 0.2
+  - Id: 2102
+    Name: "\uC5D8\uB9AC\uD2B8 \uBAAC\uC2A4\uD130 2"
+    PrefabName: Monster_4
+    IsBoss: 1
+    HP: 150
+    Speed: 1.25
+    Atk: 20
+    DropExp: 100
+    DropBeads: 0.2
+  - Id: 2103
+    Name: "\uBCF4\uC2A4 \uBAAC\uC2A4\uD130 1"
+    PrefabName: Monster_5
+    IsBoss: 2
+    HP: 250
+    Speed: 1.23
+    Atk: 30
+    DropExp: 0
+    DropBeads: 0
