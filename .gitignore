@@ -77,3 +77,6 @@ com.Tivadar.Best.TLSSecurity.xml
 com.Tivadar.Best.WebSockets.xml
 Assets/Kawaii Slimes.meta
 Assets/AssetGroups/Hovl Studio/Map track markers VFX/Demo scene/Standard material.unitypackage.meta
+Assets/Kawaii Slimes/Render Pipelines.meta
+Assets/Kawaii Slimes/Render Pipelines/Built-in.unitypackage.meta
+Assets/Kawaii Slimes/Render Pipelines/URP.unitypackage.meta

@@ -5,39 +5,39 @@ using UnityEngine;
 /// <summary>You must approach through `GoogleSheetManager.SO<GoogleSheetSO>()`</summary>
 public class GoogleSheetSO : ScriptableObject
 {
-	public List<ChapterData> ChapterDataList;
-	public List<StageData> StageDataList;
-	public List<WaveData> WaveDataList;
-	public List<MonsterData> MonsterDataList;
+	public List<ChapterCSVData> ChapterCSVDataList;
+	public List<StageCSVData> StageCSVDataList;
+	public List<WaveCSVData> WaveCSVDataList;
+	public List<MonsterCSVData> MonsterCSVDataList;
 }
 
 [Serializable]
-public class ChapterData
+public class ChapterCSVData
 {
 	public string Id;
 	public string ChapterTitle;
-	public string ArrStageIdxs;
+	public List<int> ArrStageIdxs;
 	public string ChapterImgName;
 }
 
 [Serializable]
-public class StageData
+public class StageCSVData
 {
 	public string Id;
 	public string StageName;
 	public string WaveIdx;
-	public string ArrStageReward;
+	public List<int> ArrStageReward;
 	public string StageImgName;
 	public string NeedStamina;
 }
 
 [Serializable]
-public class WaveData
+public class WaveCSVData
 {
 	public string Id;
 	public string WaveIdx;
 	public string WaveType;
-	public string ArrMonsterIdxs;
+	public List<int> ArrMonsterIdxs;
 	public string WaveTime;
 	public string SummonCnt;
 	public string MaxCount;
@@ -47,7 +47,7 @@ public class WaveData
 }
 
 [Serializable]
-public class MonsterData
+public class MonsterCSVData
 {
 	public int Id;
 	public string Name;

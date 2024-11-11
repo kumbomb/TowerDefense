@@ -12,79 +12,79 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 123fb84016ff8cf4cbf7673abe6240ed, type: 3}
   m_Name: GoogleSheetSO
   m_EditorClassIdentifier: 
-  ChapterDataList:
+  ChapterCSVDataList:
   - Id: 1
     ChapterTitle: "\uC232"
-    ArrStageIdxs: 1/2/3
+    ArrStageIdxs: 010000000200000003000000
     ChapterImgName: Chapter_Title_Img_1
   - Id: 2
     ChapterTitle: "\uC232 \uAE4A\uC740 \uACF3"
-    ArrStageIdxs: 4/5/6
+    ArrStageIdxs: 040000000500000006000000
     ChapterImgName: Chapter_Title_Img_2
   - Id: 3
     ChapterTitle: "\uC232 \uACE8\uC9DC\uAE30"
-    ArrStageIdxs: 7/8/9
+    ArrStageIdxs: 070000000800000009000000
     ChapterImgName: Chapter_Title_Img_3
-  StageDataList:
+  StageCSVDataList:
   - Id: 1
     StageName: "\uC232 1-1"
     WaveIdx: 101
-    ArrStageReward: 0/100/1/100
+    ArrStageReward: 00000000640000000100000064000000
     StageImgName: Stage_Title_Img_1
     NeedStamina: 5
   - Id: 2
     StageName: "\uC232 1-2"
     WaveIdx: 102
-    ArrStageReward: 0/100/1/101
+    ArrStageReward: 00000000640000000100000065000000
     StageImgName: Stage_Title_Img_2
     NeedStamina: 5
   - Id: 3
     StageName: "\uC232 1-3"
     WaveIdx: 103
-    ArrStageReward: 0/100/1/102
+    ArrStageReward: 00000000640000000100000066000000
     StageImgName: Stage_Title_Img_3
     NeedStamina: 5
   - Id: 4
     StageName: "\uC232 \uAE4A\uC740 \uACF3 1-1"
     WaveIdx: 104
-    ArrStageReward: 0/100/1/103
+    ArrStageReward: 00000000640000000100000067000000
     StageImgName: Stage_Title_Img_4
     NeedStamina: 5
   - Id: 5
     StageName: "\uC232 \uAE4A\uC740 \uACF3 1-2"
     WaveIdx: 105
-    ArrStageReward: 0/100/1/104
+    ArrStageReward: 00000000640000000100000068000000
     StageImgName: Stage_Title_Img_5
     NeedStamina: 5
   - Id: 6
     StageName: "\uC232 \uAE4A\uC740 \uACF3 1-3"
     WaveIdx: 106
-    ArrStageReward: 0/100/1/105
+    ArrStageReward: 00000000640000000100000069000000
     StageImgName: Stage_Title_Img_6
     NeedStamina: 5
   - Id: 7
     StageName: "\uC232 \uACE8\uC9DC\uAE30 1-1"
     WaveIdx: 101
-    ArrStageReward: 0/100/1/106
+    ArrStageReward: 0000000064000000010000006a000000
     StageImgName: Stage_Title_Img_7
     NeedStamina: 5
   - Id: 8
     StageName: "\uC232 \uACE8\uC9DC\uAE30 1-2"
     WaveIdx: 102
-    ArrStageReward: 0/100/1/107
+    ArrStageReward: 0000000064000000010000006b000000
     StageImgName: Stage_Title_Img_8
     NeedStamina: 5
   - Id: 9
     StageName: "\uC232 \uACE8\uC9DC\uAE30 1-3"
     WaveIdx: 103
-    ArrStageReward: 0/100/1/108
-    StageImgName: Stage_Title_Img_9
+    ArrStageReward: 0000000064000000010000006c000000
+    StageImgName: '`'
     NeedStamina: 5
-  WaveDataList:
+  WaveCSVDataList:
   - Id: 1
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001
+    ArrMonsterIdxs: e9030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -94,7 +94,7 @@ MonoBehaviour:
   - Id: 2
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1002
+    ArrMonsterIdxs: ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -104,7 +104,7 @@ MonoBehaviour:
   - Id: 3
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -114,7 +114,7 @@ MonoBehaviour:
   - Id: 4
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -124,7 +124,7 @@ MonoBehaviour:
   - Id: 5
     WaveIdx: 101
     WaveType: 1
-    ArrMonsterIdxs: 2101
+    ArrMonsterIdxs: 35080000
     WaveTime: 20
     SummonCnt: 1
     MaxCount: 1
@@ -134,7 +134,7 @@ MonoBehaviour:
   - Id: 6
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001
+    ArrMonsterIdxs: e9030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -144,7 +144,7 @@ MonoBehaviour:
   - Id: 7
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1002
+    ArrMonsterIdxs: ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -154,7 +154,7 @@ MonoBehaviour:
   - Id: 8
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -164,7 +164,7 @@ MonoBehaviour:
   - Id: 9
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -174,7 +174,7 @@ MonoBehaviour:
   - Id: 10
     WaveIdx: 101
     WaveType: 1
-    ArrMonsterIdxs: 2102
+    ArrMonsterIdxs: 36080000
     WaveTime: 20
     SummonCnt: 1
     MaxCount: 1
@@ -184,7 +184,7 @@ MonoBehaviour:
   - Id: 11
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -194,7 +194,7 @@ MonoBehaviour:
   - Id: 12
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -204,7 +204,7 @@ MonoBehaviour:
   - Id: 13
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -214,7 +214,7 @@ MonoBehaviour:
   - Id: 14
     WaveIdx: 101
     WaveType: 0
-    ArrMonsterIdxs: 1001/1002
+    ArrMonsterIdxs: e9030000ea030000
     WaveTime: 20
     SummonCnt: 3
     MaxCount: 21
@@ -224,14 +224,14 @@ MonoBehaviour:
   - Id: 15
     WaveIdx: 101
     WaveType: 2
-    ArrMonsterIdxs: 2103
+    ArrMonsterIdxs: 37080000
     WaveTime: -1
     SummonCnt: 1
     MaxCount: 1
     MulitplyHp: 1.2
     MultiplySpeed: 1.2
     MultiplyAtsp: 1
-  MonsterDataList:
+  MonsterCSVDataList:
   - Id: 1001
     Name: "\uC77C\uBC18 \uBAAC\uC2A4\uD130 1"
     PrefabName: Monster_1

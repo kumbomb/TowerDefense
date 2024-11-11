@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isAccessGoogleSheet: 1
-  googleSheetUrl: https://script.google.com/macros/s/AKfycbzaPH_a79Dg-OWKVVyyAX6yVuZCi9GScBigZqdu9tdXNmgClthjYgI424pDOkZAVDUZWw/exec
-  availSheets: ChapterData/StageData/WaveData/MonsterData
+  googleSheetUrl: https://script.google.com/macros/s/AKfycbx3-ToidRXxIbUclyeQoXlLQg1rKeKqva0Gw9w8UWnisqD2wlrhkpVM0TQSeaphXOnHNw/exec
+  availSheets: ChapterCSVData/StageCSVData/WaveCSVData/MonsterCSVData
   generateFolderPath: /GameProject/Data
   googleSheetSO: {fileID: 11400000, guid: d86e8cb7d7a138142bc77240767b2533, type: 2}

@@ -2236,6 +2236,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DontDestroyManager
       objectReference: {fileID: 0}
+    - target: {fileID: 6678562450151193115, guid: d5c75372155d36a4daba20bef3a98c34, type: 3}
+      propertyPath: availSheets
+      value: ChapterCSVData/StageCSVData/WaveCSVData/MonsterCSVData
+      objectReference: {fileID: 0}
     - target: {fileID: 7188496671257275602, guid: d5c75372155d36a4daba20bef3a98c34, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

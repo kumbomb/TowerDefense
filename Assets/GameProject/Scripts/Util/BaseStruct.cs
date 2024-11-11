@@ -81,6 +81,15 @@ namespace BaseStruct
     #endregion
 
     #region CSV 데이터 구조 형태 
+
+    [System.Serializable]
+    public class ChapterData
+    {
+        public int id;
+        public string chapterTitle;
+        public int[] stageIdxs;
+        public string chapterImgName;
+    }
     
     // 테이블에서 읽어올 타워의 기본 데이터 
     [System.Serializable]

@@ -1,30 +1,47 @@
 {
-  "ChapterData": [
+  "ChapterCSVData": [
     {
       "Id": "1",
       "ChapterTitle": "숲",
-      "ArrStageIdxs": "1/2/3",
+      "ArrStageIdxs": [
+        1,
+        2,
+        3
+      ],
       "ChapterImgName": "Chapter_Title_Img_1"
     },
     {
       "Id": "2",
       "ChapterTitle": "숲 깊은 곳",
-      "ArrStageIdxs": "4/5/6",
+      "ArrStageIdxs": [
+        4,
+        5,
+        6
+      ],
       "ChapterImgName": "Chapter_Title_Img_2"
     },
     {
       "Id": "3",
       "ChapterTitle": "숲 골짜기",
-      "ArrStageIdxs": "7/8/9",
+      "ArrStageIdxs": [
+        7,
+        8,
+        9
+      ],
       "ChapterImgName": "Chapter_Title_Img_3"
     }
   ],
-  "StageData": [
+  "StageCSVData": [
     {
       "Id": "1",
       "StageName": "숲 1-1",
       "WaveIdx": "101",
-      "ArrStageReward": "0/100/1/100",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        100
+      ],
       "StageImgName": "Stage_Title_Img_1",
       "NeedStamina": "5"
     },
@@ -32,7 +49,12 @@
       "Id": "2",
       "StageName": "숲 1-2",
       "WaveIdx": "102",
-      "ArrStageReward": "0/100/1/101",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        101
+      ],
       "StageImgName": "Stage_Title_Img_2",
       "NeedStamina": "5"
     },
@@ -40,7 +62,12 @@
       "Id": "3",
       "StageName": "숲 1-3",
       "WaveIdx": "103",
-      "ArrStageReward": "0/100/1/102",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        102
+      ],
       "StageImgName": "Stage_Title_Img_3",
       "NeedStamina": "5"
     },
@@ -48,7 +75,12 @@
       "Id": "4",
       "StageName": "숲 깊은 곳 1-1",
       "WaveIdx": "104",
-      "ArrStageReward": "0/100/1/103",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        103
+      ],
       "StageImgName": "Stage_Title_Img_4",
       "NeedStamina": "5"
     },
@@ -56,7 +88,12 @@
       "Id": "5",
       "StageName": "숲 깊은 곳 1-2",
       "WaveIdx": "105",
-      "ArrStageReward": "0/100/1/104",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        104
+      ],
       "StageImgName": "Stage_Title_Img_5",
       "NeedStamina": "5"
     },
@@ -64,7 +101,12 @@
       "Id": "6",
       "StageName": "숲 깊은 곳 1-3",
       "WaveIdx": "106",
-      "ArrStageReward": "0/100/1/105",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        105
+      ],
       "StageImgName": "Stage_Title_Img_6",
       "NeedStamina": "5"
     },
@@ -72,7 +114,12 @@
       "Id": "7",
       "StageName": "숲 골짜기 1-1",
       "WaveIdx": "101",
-      "ArrStageReward": "0/100/1/106",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        106
+      ],
       "StageImgName": "Stage_Title_Img_7",
       "NeedStamina": "5"
     },
@@ -80,7 +127,12 @@
       "Id": "8",
       "StageName": "숲 골짜기 1-2",
       "WaveIdx": "102",
-      "ArrStageReward": "0/100/1/107",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        107
+      ],
       "StageImgName": "Stage_Title_Img_8",
       "NeedStamina": "5"
     },
@@ -88,17 +140,24 @@
       "Id": "9",
       "StageName": "숲 골짜기 1-3",
       "WaveIdx": "103",
-      "ArrStageReward": "0/100/1/108",
-      "StageImgName": "Stage_Title_Img_9",
+      "ArrStageReward": [
+        0,
+        100,
+        1,
+        108
+      ],
+      "StageImgName": "`",
       "NeedStamina": "5"
     }
   ],
-  "WaveData": [
+  "WaveCSVData": [
     {
       "Id": "1",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001",
+      "ArrMonsterIdxs": [
+        1001
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -110,7 +169,9 @@
       "Id": "2",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1002",
+      "ArrMonsterIdxs": [
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -122,7 +183,10 @@
       "Id": "3",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -134,7 +198,10 @@
       "Id": "4",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -146,7 +213,9 @@
       "Id": "5",
       "WaveIdx": "101",
       "WaveType": "1",
-      "ArrMonsterIdxs": "2101",
+      "ArrMonsterIdxs": [
+        2101
+      ],
       "WaveTime": "20",
       "SummonCnt": "1",
       "MaxCount": "1",
@@ -158,7 +227,9 @@
       "Id": "6",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001",
+      "ArrMonsterIdxs": [
+        1001
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -170,7 +241,9 @@
       "Id": "7",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1002",
+      "ArrMonsterIdxs": [
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -182,7 +255,10 @@
       "Id": "8",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -194,7 +270,10 @@
       "Id": "9",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -206,7 +285,9 @@
       "Id": "10",
       "WaveIdx": "101",
       "WaveType": "1",
-      "ArrMonsterIdxs": "2102",
+      "ArrMonsterIdxs": [
+        2102
+      ],
       "WaveTime": "20",
       "SummonCnt": "1",
       "MaxCount": "1",
@@ -218,7 +299,10 @@
       "Id": "11",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -230,7 +314,10 @@
       "Id": "12",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -242,7 +329,10 @@
       "Id": "13",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -254,7 +344,10 @@
       "Id": "14",
       "WaveIdx": "101",
       "WaveType": "0",
-      "ArrMonsterIdxs": "1001/1002",
+      "ArrMonsterIdxs": [
+        1001,
+        1002
+      ],
       "WaveTime": "20",
       "SummonCnt": "3",
       "MaxCount": "21",
@@ -266,7 +359,9 @@
       "Id": "15",
       "WaveIdx": "101",
       "WaveType": "2",
-      "ArrMonsterIdxs": "2103",
+      "ArrMonsterIdxs": [
+        2103
+      ],
       "WaveTime": "-1",
       "SummonCnt": "1",
       "MaxCount": "1",
@@ -275,7 +370,7 @@
       "MultiplyAtsp": 1
     }
   ],
-  "MonsterData": [
+  "MonsterCSVData": [
     {
       "Id": 1001,
       "Name": "일반 몬스터 1",

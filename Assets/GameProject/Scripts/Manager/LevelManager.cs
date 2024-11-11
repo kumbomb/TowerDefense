@@ -9,8 +9,8 @@ public class LevelManager : Singleton<LevelManager>
 
     bool isInit = false;
     protected override bool IsPersistent => false;
-    StageData curStageData;
-
+    //StageData curStageData;
+//
     public void InitLevelManager(){
         if(isInit) return;
         isInit = true;
